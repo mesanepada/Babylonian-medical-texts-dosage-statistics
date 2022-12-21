@@ -2,6 +2,13 @@ from openpyxl import Workbook, load_workbook
 import re
 import os
 
+#Initialisation
+#1. Initialisation de l'expression régulière décrivant les débuts de recipes.
+expr_reg_debut_recipe=r"disz (?:na|kimin|ki\.min|ki-min|lu2)"
+#2. Initialitation du Système S
+systeme_S={"disz":1,"u":10,"gesz2":60,"geszu":600,"szar2":3600}
+#3. Initialisation des unités de mesure:
+Unites_de_mesure=["ban2","gin2","ma-na","sila3","barig","gur","sze","gu2","gun2"]
 
 def prochain_mot(pos,chaine):#trouve le prochain mot, strictement après la position pos dans la chaine chaine
         interruption=False
@@ -68,8 +75,7 @@ def determinant_apres(pos,chaine):#retourne le déterminatif qui succède au mot
         return(det)
 
 
-#Système S
-systeme_S={"disz":1,"u":10,"gesz2":60,"geszu":600,"szar2":3600}
+
 
 #Analyse ce qui précède l'unité (sachant que pos se situe juste avant le début de l'unité) dans la ligne chaine. Le but étant de trouver les nombres précédant l'unité. 
 def analyse_avant(pos,chaine):
@@ -157,7 +163,7 @@ def beginning_recipe(ligne):#Controle si on est au début d'un nouveau texte
 
 #Fonction pour voir si une nouvelle recette commence dans la ligne l. On revoit toutes les sous-listes, ainsi que le nombre d'occurences.
 def nouvelle_recette(l):
-        debut_recette=r"disz (?:na|kimin|ki\.min|ki-min|lu2)"
+        debut_recette=expr_reg_debut_recipe
         a=re.split(debut_recette,l.lower())
         return(len(a)-1,a)
 
@@ -165,7 +171,7 @@ def nouvelle_recette(l):
 
 
 
-
+#Initialisation workbook Excel
 workbook=Workbook()
 sheet = workbook.active #First sheet
 sheet.title="Raw data"
@@ -176,7 +182,7 @@ sh_metadata = workbook.create_sheet("CDLI Metadata",1)
 
 
 
-Unites_de_mesure=["ban2","gin2","ma-na","sila3","barig","gur","sze","gu2","gun2"]
+
 Nombre_unites=[0 for i in range(len(Unites_de_mesure))]#nombre de fois où l'unité est employé dans une recette
 
 
