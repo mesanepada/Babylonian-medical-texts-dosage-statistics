@@ -1,0 +1,1592 @@
+&P281807 = BAM 1, 5 (VAT 10314) 
+@tablet 
+@obverse 
+1. [...] x _sag_-su# x [...] 
+2. [... _sag]-ki#_-su _szu-du8-a_ x x [x x] 
+3. [... x]-su# ana _sag-du_-szu2 _nu_ ta#-[x x] 
+4. [... x]-pi# _egir_-szu2 _numun gada_ ta-sak3-[ma] 
+5. [mal2]-ma#-lisz _i3#-gesz#_ eri-a-na [...] 
+6. [...] _szu# nu u2 sze-sa nita {u2}kur-[ra?]_ 
+7. [...] sa#? [x] x x x [...] 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. [...] _erin#?_ [...] 
+$ single ruling 
+2'. [...] _i3#-gesz# erin#? hi-hi szesz2#?_ 
+$ single ruling 
+3'. [...] _sza3_-szu2 _szub_-di _szesz2#?_ 
+$ single ruling 
+ 
+ 
+
+
+&P281804 = BAM 1, 12 (VAT 9535) 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. _DISZ ki-min_ [...] 
+2'. ina [...] 
+3'. {szim#}[x ...] 
+$ single ruling 
+4'. _DISZ ki-min 1/3(disz) sila3_ {szim#}[x ...] 
+5'. ina _a gazi{sar#}_ [...] 
+6'. _mun a-mesz sal#_ [...] 
+$ single ruling 
+7'. _DISZ ki-min 1(u) kisal gaz duh-sze-gesz#-[i3_ ...] 
+8'. _sag_-su tu-qal-lab _[lal_-su-ma ...] 
+$ single ruling 
+9'. _DISZ ki-min 1/3(disz) sila3 pa {gesz}ge6-par3_ x [...] 
+10'. _sag_-su tu-qal-lab _lal_-su-ma# [...] 
+$ single ruling 
+11'. _DISZ ki-min 1/3(disz) sila3 pa {gesz}pesz3_ sza i+na _{iti}bara2-zag-gar_ tara-has, x [...] 
+12'. _sag_-su tu-gal-lab _lal_-[su-ma ...] 
+13'. _uzu ze2 {ku6}gu2-bi2_ ina _mun_ tusz-da-al ina _i3-gesz hi-hi_ [...] 
+$ single ruling 
+14'. _DISZ ki-min 1/3(disz) sila3 gaz {u2}nigin 1/3(disz) sila3 gaz numun {u2}ki-{d}iszkur_ [...] 
+15'. _sag_-su tu-qal-lab _lal_-su-ma [...] 
+16'. _{na4}an-zah sud2_ ina _i3-nun hi-hi igi-[min_-szu2 ...] 
+$ single ruling 
+17'. _DISZ ki-min 1/3(disz) sila3 pa_ {u2#}tal2-tal2 _had2-ra2 gaz sim_ ina _a_ [...] 
+18'. _sag_-su# tu#-gal#-lab _lal_-su-ma 3(disz) _u4-mesz nu du8_ {na4#}[x ...] 
+$ single ruling 
+19'. _DISZ ki-min 1/3(disz) sila3 pa#_ {gesz}ha-lu-pi _had2-ra2 gaz sim_ ina _a gazi{sar#}_ [...] 
+20'. _lal_-su-ma 3(disz)# _u4-mesz nu du8 {na4}an-zah2 ge6 sud2_ ina _ge6#_ [...] 
+$ single ruling 
+21'. _DISZ ki-min 1/3(disz) sila3# gaz# {szim}gam-me 1/3(disz) sila3 gaz numun {u2}ki-{d}iszkur#_ [...] 
+22'. _sag_-su# tu-gal-lab _lal_-su-ma 3(disz) _u4-mesz nu du8 {na4}an#-[zah2_ ...] 
+23'. ina _i3-gesz sud2 igi-min_-szu2 [...] 
+$ single ruling 
+24'. _DISZ ki-min 1/3(disz) sila3 pa {u2}ma2-erisz-ma2-la2 had2-ra2 gaz sim_ [...] 
+25'. _sag_-su tu-gal-lab _lal_-su-ma 3(disz) _u4-mesz nu du8 numun_ {gesz#}[x ...] 
+$ single ruling 
+26'. _DISZ ki-min szurun gu4 szeg6_-la ina _a-gesztin-na_ dan-na _gesztin#_ [...] 
+27'. {na4}asz2-har# [...] 
+$ single ruling 
+@reverse 
+1. _DISZ ki-min im-gu2_ sza ina _u4-da_ di-kat3 _gaz sim#_ [...] 
+2. _lal_-su-ma 3(disz) _u4-mesz nu du8_ {u2}tara-musz8 _sud2#_ ina# _a#_ [...] 
+$ single ruling 
+3. _DISZ ki-min bil-la2_ {u2}ur-ba-te _sim_ ina _a gazi{sar}_ ta-la3-asz2 _sag#_ [...] 
+4. da-li-la sza _sza3 pesz4-da_ ina _i3-gesz sud2 igi-min_-[szu2 ...] 
+$ single ruling 
+5. _DISZ ki-min im-gu2 gar-rin-na had2-ra2 gaz sim_ ina _a gazi{sar}_ ta-[x ...] 
+6. _lal_-su-ma 3(disz) _u4-mesz nu du8 mun eme-sal_ ina _i3 ina_ [...] 
+$ single ruling 
+7. _DISZ ki-min_ hi-lisz-ti _{im}szu-rin sumun gaz sim_ ina _a gazi{sar}_ ta#-[x ...] 
+8. _lal_-su-ma 3(disz) _u4-mesz nu du8 {u2}ur-tal2-tal2_ [...] 
+$ single ruling 
+9. _DISZ ki-min {u2}gesztin ka5-a had2-ra2 gaz sim_ ina _gazi{sar#}_ [...] 
+10. _lal_-su-ma 3(disz) _u4-mesz nu du8 numun {gesz}u2-gir2_ [...] 
+$ single ruling 
+11. _DISZ ki-min im-babbar szeg6-ga2 gaz sim ki i3-gesz_ u3 _a#_ [...] 
+12. _sag_-su tu-gal-lab _lal_-[su-ma ...] 
+13. _numun {u2}eme ur-gi7 sud2_ ina [...] 
+$ single ruling 
+14. _DISZ ki-min {u2}nigin{sar}_ sah-le2-e _had2-ra2 gaz sim_ [...] 
+15. _sag_-su tu-gal-lab _[lal_-su-ma ...] 
+16. sah-le2-e _u2 babbar_ ina _a-mesz_ [...] 
+$ single ruling 
+17. _DISZ ki-min_ {u2}hal-tap-a-na _gurun_ {gesz}kal-ba-ni _had2-ra2#_ [...] 
+18. _sag_-su tu-gal-lab [...] 
+19. _i3-nun lal3 kur_-i ina _dilim-a-bar2! zi3_ ta-na-[di ...] 
+$ single ruling 
+20. e-nu-ma 2(u) 2(disz) _lal-mesz_-te an-na-[te ...] 
+21. nam-ru-tu i-kas-sap# [...] 
+22. sza _sza3 igi-min_-szu2# [...] 
+$ triple ruling 
+$ rest broken 
+ 
+
+
+&P281805 = BAM 1, 16 (VAT 9935) 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. [...] _udu-nita2 sahar_ x [...] 
+2'. [... ta]-sak3 ina _usz2_ {gesz}e#-re#-ni# [...] 
+$ single ruling 
+3'. _[DISZ na_ ...] ina szur-szum-mi _kasz_ ta#-sak3# [...] 
+4'. _[DISZ kimin_ ... _igi-mesz_-szu2] _lal#_-id-ma [...] 
+$ single ruling 
+5'. _[DISZ kimin_ ...] _igi#-mesz_-szu2 _lal_-id-ma _[ti]_ 
+$ single ruling 
+6'. _[DISZ kimin_ ...] _igi#-mesz_-szu2 _lal_-id-ma _ti#_ 
+$ single ruling 
+7'. _[DISZ kimin_ ...] _igi#-mesz_-szu2 _lal_-id-ma _ti_ 
+$ single ruling 
+8'. _[DISZ kimin_ ... _igi]-mesz_-szu2 _lal_-id-ma _ti#_ 
+$ single ruling 
+9'. _[DISZ kimin_ ...] tu#-kas,3-s,a _min ti_ 
+$ single ruling 
+10'. _[DISZ kimin_ ...] _i3-nun igi-mesz_-szu2 _diri_-ma _ti_ 
+$ single ruling 
+11'. _[DISZ kimin_ ... te]-qi2-ma _ti_ 
+$ single ruling 
+12'. _[DISZ kimin_ ...] x _igi-mesz_-szu2 _min ti_ 
+$ single ruling 
+13'. _[DISZ kimin_ ... x]-ma# _ti_ 
+$ single ruling 
+14'. _[DISZ kimin_ ... x]-ma# _ti_ 
+$ single ruling 
+15'. _[DISZ kimin_ ... x]-ma# _ti_ 
+$ single ruling 
+16'. x x x 
+$ single ruling 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. _[DISZ kimin_ ...] _ti#_ 
+$ single ruling 
+2'. _[DISZ kimin_ ...] _hi#-hi min ti_ 
+$ single ruling 
+3'. _[DISZ kimin_ ... x]-ma# _ti_ 
+$ single ruling 
+4'. _[DISZ kimin_ ...] u? 4(disz) _u2-hi-a_ an-nu-ti 
+5'. [...] _ti_ 
+$ single ruling 
+6'. [... _{na4}]u2#-nig2-bur3-bur3_ 
+7'. [...] _diri# igi-mesz_-szu2 
+8'. [...] _zi#_-ma i-ne2-esz 
+$ single ruling 
+9'. [...] _gub_-su 
+10'. [... te-te]-ne2-qi2 _a-mesz_ 
+11'. [... _gar]_-an# _gub_-su 
+12'. [...] lisz-hu-ra-ni 
+13'. [...] u _gesz_ hu-u _gesz mud2_ {gesz}e#-[re-ni] 
+$ rest broken 
+ 
+
+
+&P281809 = BAM 1, 036 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ broken 
+@reverse 
+$ beginning broken 
+$ single ruling 
+1'. [...] _{szim#}li_ {szim}[x ...] 
+2'. [...] ina _a-esir2 hi-hi_ 
+$ single ruling 
+3'. [...] x _{szim}hab {szim}szesz illu {szim}buluh a_ [...] 
+4'. [...] _sud2_ ina _a-esir2_ u _zi3-kum hi-hi en? du10-gan_ x [...] 
+$ single ruling 
+5'. [...] _{gesz#}gar3 mur-mesz_ [...] 
+6'. [...] _e2-masz_ {d}ba-ba6 sza2 _{iri}bal-til[{ki}]_ [...] 
+7'. [...] x _pap im nu tum3_ sza2 _gig_ {d}e2-a# [...] 
+8'. [... x]-tu4 _tum3 igi-min_-szu2 _du-mesz_ [...] 
+ 
+ 
+
+&P281808 = BAM 1, 37 (VAT 11238) 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. [...] x x [...] 
+$ single ruling 
+2'. [...] x hi-im _ka_-szu la x [...] 
+3'. [...] tu _szub_ x it ana _ti_ [...] 
+4'. [...] na-te ina _kasz-sag_ ina {gesz}mu-sza [...] 
+5'. [...] tusz#-bat ina _a2-gu2-zi-ga_ ba-lu [...] 
+6'. [...] _en2 kar? du3-mesz_-ma 
+$ single ruling 
+7'. [...] x ra-ta _{szim}szesz na4_ ga-bi [...] 
+8'. [...] ina _gesztin du10-ga_ na-lu x [...] 
+$ single ruling 
+9'. [...] te ina _i3_ ina _kusz_ u _kasz-sag hi-hi_ [...] 
+10'. [...] szu-tu2-ma _u2-mesz_ x 
+11'. [...] ma _du10-ga_ [...] 
+$ single ruling 
+12'. [...] _szim_ [...] 
+$ rest broken 
+@reverse 
+$ broken 
+ 
+ 
+
+
+&P281802 = BAM 1, 066 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. x-id ina _u4-me kasz_ [... ana _gig_-szu] 
+2. _nu# gid2-da_ {szim?}[x ...] 
+3. [x] _kasz#-sag_ [...] 
+$ single ruling 
+4. [x x] x _u4-me kasz x_ [...] _gid2#-da_ 
+5. [ana _gig_-szu] _nu# gid2-da_ [x x x] x _i3 {szim}gur2-gur2_ 
+6. [...] x x [...]-ma _ti_ 
+$ single ruling 
+7. [...] _du#_-ku _na bi_ 1(u) 5(disz) _u4-mesz_ 
+8. [...] _i3# {szim}li i3_ ni-kip-te 
+9. [...] ana _su_-szu _szesz2-mesz_-ma _min_ 
+$ single ruling 
+10. _DISZ na_ min#?_ [...] ir# _nu tuku na bi_ 1(disz) _iti gig_ ana _gig_-szu 
+11. _nu gid2#-[da_ ...] _szesz2#_-su _izi_ ana _igi_-szu ta-sza2-rap? 
+12. ina _dur2_ tu#-[... x]-ma# _nag_ 3(disz) _u4-mesz_ tu-s,ar-rasz!(BI)-ma _ti_ 
+$ single ruling 
+13. _DISZ na min sag-ki-mesz_ [...] x bi _na bi_ 6(disz) _u4-mesz gig_ 
+14. ana _gig_-szu _nu gid2-da_ [...] x _sza3 _geszimmar nita_ ina _{sig2}he-me-da_ 
+15. _tesz2-bi_ ta-t,a-me _sag-ki#-mesz#_-szu# _kesz i3 {szim}gur2-gur2 i3 {szim}li_ u 
+16. _i3_ ni-kip-te ana _sag-ki-mesz_-szu _szub-szub_-ma _ti_ 
+$ single ruling 
+17. _DISZ na min u4 1(disz)-kam2 gig u4 1(disz)-kam2 ti na bi_ 5(u) _u4-mesz gig_ ana _gig_-szu _nu gid2-da#_ 
+18. _{u2}kur-ra {szim}li gaz_ ina _i3-gesz hi-hi szesz2_ ir3-ri ta-sak3# 
+19. mu-sza2-t,a3 _izi_ tu-qa-tar-szux(BI) _kusz! ansze szurun arkab#{muszen}_ ina szu-pe-[e] 
+20. te-sze-pi ina _gu2_-szu _gar_-an-ma [x x] 
+$ single ruling 
+21. _DISZ na min kum2_ s,ar-ha li!-'i-ba _tuku a-mesz_ ma-gal _nag_ u ma-gal x x [x x] 
+22. _gig_ ana _gig-bi nu gid2-da_ {gesz}szinig u2-sikil_ x [...] 
+23. tu-ha-s,a _a-mesz_-szu-nu ta-sak3 _nag_-szu2-ma [...] 
+$ single ruling 
+24. _DISZ na min ir_ ma-gal _tuku-mesz_-szi _ir gin7 a-mesz_ x x [...] 
+25. ut-ta-na-tak2 _na# bi# gig#_ la3#-zi# _dab#_ [...] 
+26. hi-qa sza2 _kasz_ [...] 
+27. ina {im}szu#-rin#-[na_ ...] 
+28. x [...] 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. la?-szu2# [...] 
+$ single ruling 
+2'. _DISZ na min du3-a-bi_ [...] 
+3'. _nu gid2-da numun#?_ [...] 
+$ double ruling 
+4'. _DISZ na u4-da kur_-id _zi sag-ki_ [...] 
+5'. sza _na4 abul ti_-qe2 _ki# i3#_ [...] 
+$ single ruling 
+6'. _DISZ na min kum2 tuku_ ana _ti-bi_ {u2}ap-ru3-sza2 [...] 
+7'. ta-sak3 ina _kasz-sag_ tu-szab-szal _szesz2_ [...] 
+$ single ruling 
+8'. _DISZ na min ninda_ u _kasz nu_ i-le-em ana _ti-bi i3_ {szim#}[x ...] 
+9'. ta-sak3 ina hi-iq _kasz nag_-szu2 ina _a2_ tu-szap#-[ra-szu2-ma _ti]_ 
+$ single ruling 
+10'. _DISZ na min_ ku-s,u2 hur-ba-szu _gir2-gir2_-su ana _ti-bi i3 szim#_ [...] 
+11'. ana _udun_ {lu2}si-pi-i _su_-szu2 _{szim}gur2-gur2 nag-mesz#_ [...] 
+$ single ruling 
+12'. _DISZ na min kum2 tuku_ ha-tu _gir2-gir2_-su ana _ti-bi i3 {szim}gur2-gur2 i3_ [...] 
+13'. _izi_ ana _igi_-szu2 ta-sza2-rap szum4-ma ina _tug2_ tu-s,ar-rasz!(BI)-ma _[ti?]_ 
+$ single ruling 
+14'. _DISZ na min_ ana _tab_-it, _u4-da du3-a-bi_-ma {u2}ap-ru3-sza2 {u2}el3-kul2#-la# sza2 _pu2_ x ta-tab#-[bal] 
+15'. ina _i3 {szim}gur2-gur2 hi-hi szesz2-mesz_-su-ma _ti#_ 
+$ single ruling 
+16'. _DISZ na min_ {u2}ha-am-ma sza2 _a-mesz_ tu-bal ta#-[sak3] ina _i3-gesz hi-hi szesz2-mesz_-su-ma _min_ 
+$ single ruling 
+17'. [x] x x si#? [... ta]-sak3# ina _i3-gesz hi-hi szesz2-mesz_-su-ma _min_ 
+$ single ruling 
+18'. [...] _gig_-ma _na_ szu2 s,i-na-ah-tu-ra 
+19'. [...] _sila3# {szim}szesz_ 3(disz) _u2-mesz_ sza2-szu-nu 
+20'. [...] x _dab_-bat ina 2(disz) _u4-me u2 babbar_ ta-sak3 
+21'. [...] ta#-sza2-ni-ma ina _a2_ ta-szap-ra-szux(BI)-ma _min_ 
+$ single ruling 
+22'. [...] x _i3-gesz bara2 mah?_ ba-lu pa-tan 
+23'. [...] _ti_ 
+$ single ruling 
+24'. [...] pa#-tan _nag_-ma _ti_ 
+$ single ruling 
+25'. [...] x [... pa]-tan# _nag_-ma _ti_ 
+$ double ruling 
+# with _man_ inscribed within and toward the end of the rulings 
+26'. [...] ($ blank space $) [...] 
+27'. ($ blank space $) _szu_ an x [...] 
+28'. ($ blank space $) _dumu? sze_ u2 [...] 
+
+
+&P281817 = BAM 2, 119 (VAT 11112) 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. [...] x x x 
+2'. [...] x x x 
+3'. [...] x-ma _giri3-min_-szu2 ana _sza3 szub_-di x [...] 
+$ single ruling 
+4'. [_DISZ na giri3-min_-szu2 i]-szam#-ma-ma-szu2 a-tal-la-kam2 la i-le#-['-i ...] 
+5'. [...] kam-ka-du _{u2}har-hum-ba-szir_ {u2}[x ...] 
+6'. [...] HU szum4-ma _en-te-na_ ba-ah-ru-su [...] 
+7'. [...] x _gu2 lal?_-su-ma _ti#_ 
+$ single ruling 
+8'. [... _{szim}]li {gesz}erin {gesz}szur-min_ GESZ# [x] x x x [...] 
+9'. [...] _giri3#-min_-szu2 tu-la#?-[']-bu# _i3-gesz erin# szesz_-[su ...] 
+10'. [...] x x [...] x-ma _ti_ 
+$ single ruling 
+11'. [...] _{szim}li_ {u2}[x ...] 
+12'. [...] x [...] 
+$ rest broken 
+@reverse 
+$ broken 
+ 
+
+
+&P281816 = BAM 2, 138 (VAT 10645) 
+#atf: lang akk 
+@tablet 
+@obverse 
+@column 1 
+$ beginning broken 
+1'. [...] ma#? 
+2'. [...] x x 
+3'. [...] x x 
+$ single ruling 
+4'. [...] x 
+5'. [...] ku 
+6'. [...] _luh#?_ 
+7'. [...] x 
+8'. [...] x 
+$ rest broken 
+@column 2 
+1. [_DISZ_ {lu2}]szi#-pir mi-szit#-[ti] 
+2. [szu-up]-szu#-hi# u# ri#-mu#-[ti] 
+3. _numun#_ u2-ra-a-nu-[um?] 
+4. _{szim}ku7-ku7 {szim#}[li]_ 
+5. _{szim}sze-li_ szu2-ur#-[szum-me _kasz?]_ 
+6. tu-bal te-sek#-[ker?] 
+7. ina _a gazi{sar} kum2_-[ti] 
+8. ta-la-asz _nig2-la2-mesz#_ 
+$ single ruling 
+9. _DISZ_ {lu2}szi-pir mi-szit-ti# 
+10. szu-up-szu-hi u ri-mu-ti# 
+11. _za3-hi-li sze-sa-[a]_ 
+12. la na-pa-te _{gesz}szinig_ 
+13. ta-hasz-szal _ki zi3 imgaga#_ 
+14. _hi-hi_ ina _kasz_ tu-szab-szal 
+15. _[nig2]-lal-mesz_-ma _ti_-ut,# 
+$ single ruling 
+16. [_DISZ lu2_ x] x qa#? [x]-mesz _ti#?_ 
+$ rest broken 
+@reverse 
+$ broken 
+ 
+ 
+
+
+&P281814 = BAM 2, 157
+#atf: lang akk 
+@tablet 
+@obverse
+$ beginning broken
+1'. [...] x DU# NI# SI x [...]
+2'. [...] _uzu# dara3_-hu _gu7-gu7#_ [...]
+$ single ruling
+3'. [...] x _szub-szub uzu giri3-pad-du_ ku-ri# [...]
+4'. [...] u2#-mi-szam-ma _zu2-mesz_-szu2 il-[x ...]
+5'. [... x]-szu2# zi-ma ti#?
+$ single ruling
+6'. [_DISZ na_ ina i-tu-li]-szu2# _zu2-mesz_-szu2 i-ga14-s,a-as, gul-gul-la-at#
+7'. _[lu2-u18-lu ti]_-qe2 ina _a-mesz luh i3-gesz szesz2_
+8'. [...] x IL ina 3(disz) _u4-me_ u2-mi-szam-ma
+9'. [ina _igi_ i-tu-li-szu2 7(disz)]-szu2 i-na-szi-iq-ma _ti_
+$ single ruling
+10'. [_DISZ na_ ... bu]-'#-sza2-nu _dab_-it ina ri-be-et _zu2-mesz_-szu2
+11'. [... _na4]_ ga#-bi-i _{u2}kur-ra_ ta-sak3
+12'. [...] ta#-kar _ugu_ {na4}ur-s,i i-na-szi-iq#-ma# TI
+$ single ruling
+13'. [...] szu11-kul2-ti? _munu6_ ana _ka_-szu2 i-si-iq# [...]
+14'. [...] _gesztin#_ i-sa-raq _gin7 du11-ga_ [...]
+15'. [...] ni# gul-gul-la-at _gig-ga#?_ [...]
+16'. [...] an#-na-a _du11-ga_-ma [...]
+$ single ruling
+17'. [...] KU#? _dab_-it ha-an-s,a-[ti ...]
+18'. [...] u ta-sak3 ana nu-hur-ti [...]
+19'. [...] x-tuk te-pe-hi-ma [...]
+$ single ruling
+20'. [...] ha#-lu-la-ia {na4}[x ...]
+21'. [... nu]-hur-ti# x [...]
+$ rest broken
+@reverse
+$ beginning broken
+1'. [...] x [...]
+2'. [...] {u2}kam2-ma-an-ta# [...]
+3'. [... x]-ta-an-ni ta-ma-la-a-ha isz-ki _lal_
+4'. [...] x _hi-hi szu-nigin2 4(disz) lal-mesz_ sza _babbar-mesz tum3_
+5'. [... _x]-mesz lal2_-su 3(disz) _iti_ tu-szal-lam
+6'. [...] _tu5-mesz_ masz-qi2-ta ki _kasz-sag nag-nag_ i#-[nisz2]
+$ single ruling
+7'. [...] _{u2}in-nu-usz {u2}gesztin ka5-a_
+8'. [...] x _ninda sze-sa-a lal_-tu an-ni-tu
+9'. [...] _sed# hi-hi lal2_-su-ma i-nisz2
+$ single ruling
+10'. [...] _gesz-pesz3_ {u2}at-kam2 _ninda sze-sa-a lal_-tu
+11'. [... _ar3]_-en# ina _kasz-sag hi-hi lal2_-su-ma i-nisz2
+$ single ruling
+12'. [...] _a_ ba _na sig7_-su-nu _ti_-qe2 tu-bal _gaz_
+13'. [...] _sze#-sa-a_ ana _sza3 szub lal_-tu an-ni-tu
+14'. [...] x _sed hi-hi lal2_-su-ma _ti_
+$ single ruling
+15'. [...] _gig_ ana _gig zi {u2}in-nu-usz_
+16'. [...] ina _a gazi{sar}_ ta-la-asz2 _lal2_-su-ma i-nisz2
+$ single ruling
+17'. [... _du10]-ga# hi-hi_ ina _a gazi{sar}_ [...]
+$ rest broken
+
+
+&P281813 = BAM 2, 165+
+#atf: lang akk
+@tablet 
+@obverse
+@column 1
+$ broken
+@column 2
+$ beginning broken
+1'. [... {u2}tar]-musz#?
+2'. [... _{gesz}]szinig#_
+3'. [... _{u2}a]-zal-la2_
+4'. [...] {gesz}x [... _{gesz}]haszhur# gesz-gi_
+5'. [...] _{u2}kur#_ [... _{u2}]kur#-kur_
+6'. [...] x _numun_ {u2}[x ...] _{u2#}szakir_
+7'. [...] x _suhusz_ {gesz}[x ... {u2}]szu-szi
+$ single ruling
+8'. [x x] _szu#-gidim-ma_ ina _kasz nag_
+$ single ruling
+9'. [... _{u2}]igi_-lim
+10'. [... _{gesz}]szinig_
+11'. [...] _na4#_ ga-bi-i
+12'. [...] {u2#}ur2-nu-u
+13'. [...] {u2#}ti-ia2-tu2
+14'. [... _{u2}kur]-kur_
+$ single ruling
+15'. [... x _u2 szu]-gidim#-ma_ ina _kasz nag_
+$ single ruling
+16'. [_DISZ na gidim] dab#_-su-ma _sza3_-szu2 _gu7-mesz_-szu2
+17'. [... _numun {gesz}]szinig# numun# {u2}in-nu-usz_
+18'. [...] x ta-sak3
+19'. [... ina] _a nag_
+$ single ruling
+20'. [...] x x x
+21'. [...] x
+@reverse
+@column 1
+$ beginning broken
+1'. [...] x [...]
+2'. _[{u2}]luh#-mar-tu_ {u2}zi#-bu#-u#
+3'. _gazi#{sar} {u2}a-zal-[la2]_
+4'. _{u2#}sumun-dar {szim}im-[di]_
+5'. {u2}szu-un-hu _{u2}an-dah#-[szum]_
+6'. _gi du10-ga#_
+$ single ruling
+7'. 1(u) 5(disz) _u2 gaba_-su _gu7#_
+8'. u3 ha-sze-e _gig#_
+$ single ruling
+9'. _{u2#}kur-ra {u2}kur-kur_
+10'. _{u2}gazi{sar} za3-hi-li-a{sar}_
+11'. _{u2}masz-tab i3-udu {szim}gig_
+12'. _u2 numun {szim}li kam2_-ma sza2 _{lu2}aszgab_
+13'. 8(disz) _u2_ rib-ku sza _igi-min kum2_
+14'. ina _i3-udu duh-lal3 i3-nun-na hi-hi_
+$ single ruling
+15'. {u2}tar-musz _{u2}igi_-lim
+16'. _{u2}igi-nisz_ {u2}ak-tam _{u2}hab_
+17'. _{u2}ukusz2-hab numun {u2}ukusz2-hab_
+18'. _{u2}ukusz2_-ti-gi-la
+19'. _bun2#?_ a-bat-te _{u2}nig2-bur3-bur3_
+20'. _numun# eme ur-gi7 numun {gesz}szinig_
+21'. _[numun] {gesz}ma-nu_ {u2}nu-s,a-bu
+22'. _[numun] {szim#}li_ ni-kip-tu4
+23'. [im-bu tam]-tim# _gi-dub-ba_ tam-tim
+24'. [...] {na4#}mu-s,u
+25'. [...] x [...]
+26'. [...] _{szim#}[szesz?_ ...]
+$ rest broken
+@column 2
+$ beginning broken
+1'. [...] x
+2'. [...] ni#?
+3'. [...] li
+4'. [...] la
+5'. [...] x
+$ single ruling
+6'. [...] da#
+7'. [...] x
+8'. [...] x
+$ rest broken
+
+
+&P281810 = BAM 2, 171 (Ist _a_ 199 + VAT 9586) 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. [_DISZ_]-ma#? _{lu2}a-zu_ HAR sza x x [...] 
+2. [x x] UB# ta#?-szar-rap _ninda sze-sa-a {u2}til#-[lal2_ ...] 
+3. 4(disz) _u2-mesz_ an-nu-te ta-hasz-szal [...] 
+4. ina _x-mesz_ ta-rap-pat [...] 
+$ single ruling 
+5. [_DISZ_]-ma _{lu2}a-zu sag-du_ ku# usz ri me [...] 
+6. ka-pi# id# ri u2-la-pat [...] 
+$ single ruling 
+7. _DISZ#_-ma# _{lu2}a-zu_ [...] 
+8. {gesz}x [...] 
+9. [...] 
+10. [x x] x pi x [...] 
+$ single ruling 
+11. [ana x x] _zi_-hi _na4 nindu_ da#? [...] 
+12. [x x] x en _im-babbar zi3-gig_ 5(disz) _u2#_ [...] 
+13. [x]-x-pi i+na _a gazi{sar}_ ta-rap#-pat# x x-me ina ma? x x 
+$ single ruling 
+14. ana sza-asz-sza-t,i2 _zi gazi{sar} {szim}gur2-gur2 {szim}li gi du10-ga_ 
+15. pul2/bal2-lu-sze? tar-musz im-hur-lim _u2_ ha-szi-e 8(disz) _u2-mesz_ 
+16. sza2-szu-nu ina _kasz-sag_ ta-ra-sa-an i-na _szen2-tur_ 
+17. tu-szab-szal ta-sza2-hal _illu_ pu-qa3-ti ta-sak3 ana _sza3 szub_ 
+18. tu-szap-ra-szum-ma _ti-la_ 2(disz)-<szu2> 3(disz)-szu2 _du3-du3_ [x] x 
+$ single ruling 
+19. _ki-min_ usz-ul#?-tu2#? _dida_ x x-szu2/lisz i+na _a szu-na2-a gaz sud2#?_ [...] 
+$ single ruling 
+20. _ki-min_ {u2}pa-at-ra-na _{gesz}bal_ ta-sak3 2(disz) _u2_ ina _kasz_ lu ina _gesztin_ x [x (x)] 
+$ single ruling 
+21. _ki-min u2 babbar_ i-na _i3-gesz_ hal-s,i2 _nag_-ma tusz-szak-kal? nu#? x [x x] 
+$ single ruling 
+22. _ki-min u2 babbar {na4}ga-be2-e# ta-sak3 i-na _i3-gesz_ hal-s,i2 tara#-bak [x] x [x] 
+$ single ruling 
+23. _ki-min kasz szim-mesz nag-nag_-ma _ti-la_ 
+$ single ruling 
+24. _ki-min {szim}gur2-gur2 {szim}li numun dili gun a-sza3_ ku-na-a-sza _mu-ni_ 
+25. _tesz2-bi_ ta-sak3 i-na _kasz-sag igi tuku_ u _{gesz}gesztin_ 
+26. i-na _szen2-[tur_ tu]-szab#-szal ana _dur2_-szu2 ta3-rap#-pat-ma _ti-la_ 
+$ single ruling 
+27. a-na mi-im-ma _gig du8_-ri {u2}ap-ru-sza {u2}hu-ub-x x _du3-du3#? 
+28. _{szim}gur2-gur2_ si-ha ar-ga-na la su2-pu-uh-ra sza masz/bar x x [x] 
+29. _numun gada 9(disz) u2-mesz_ sza-szu-nu ta-sak3 i-na _illu_ ba-luh-ha 
+30. _{szim}hab_ u3 _duh-lal3 hi-hi_ i-na _kusz edin-na_ te-t,e2-ri _min_ 
+$ single ruling 
+31. ana ri-mu-ti ka-li-szu-ma ka-sa-ri [x x] 
+32. {u2}hal-tap-pa-na _pa_ u2-ra-ni _pa_ lu-lum-ti [x x] 
+33. {u2}sza2-ki-ra-a _lal3 gazi{sar}_ qa-lu-ti {u2}x [x x x] 
+34. _{u2}numun gada 8(disz) u2-mesz_ sza-szu-nu ta-hasz-szal [...] 
+35. i-na _a zu2-lum-ma_ i-na _szen2-tur_ ta3-rap-[pat ...] 
+36. _gaba#?-ri i+na# _i3# kur#_-ri? tal-ta/tap?-[...] 
+$ single ruling 
+37. [x x] x im ka-li-szu-ma [...] 
+38. [x x (x)] _numun ki disz kur numun gada_ x [...] 
+39. {u2}hal-tap-pa-na {u2}la-ha-ga [...] 
+40. x x ir-x-x sza _ansze_ ku-up-pat#? 
+41. 9(disz) _u2-mesz_ sza2-szu-nu ta-sak3 i+na# _mul4#?_ [tusz-bat? ...] 
+42. ta-rap-pat i-na _i3_ x ri x x [...] 
+43. i-na _kusz edin_ te-t,e2-ri# x x x [...] 
+@reverse 
+1. ana szi-me-er-te ka#-lisz-ma szu-s,e#-e _lu2? ti-la# [x] 
+2. _{szim}gur2-gur2 {szim}li# {u2}har#-har numun_ tar-musz8 {u2#}[ka-man-tu2] 
+3. {u2}ba-ri-ra#-tu2# 6(disz) _u2-mesz_ te-t,e4-en [ta-nap-pi] 
+4. _za3-<hi>-li-a{sar}_ i-na _dida [tesz2-bi hi-hi]_ 
+5. i-na _szen2-tur_ ta-rab#-[bak?] i-na _kusz edin_ te-t,e2#-[ri _lal_-su-ma _ti]_ 
+$ single ruling 
+6. ana um-mi ka-lisz-ma _zi_-hi _numun_ x x im x [...] 
+7. an-ki-nu-tu ha-ma-sza2 _a-mesz_ x x {u2}a-ri-[ha? ...] 
+8. _{szim}gur2-gur2 {szim}li_ {u2}ap#-ru-sza {u2}ar-[ga-na?] 
+9. _{u2}lal_ {na4}hu-ur2-hu {na4}x-x-tu4 x-zu-[x-x-x] 
+10. {na4}ia-ar-tum sza2 7(disz) _gun2#?-mesz_-sza {na4}x x x [...] 
+11. _i3-gesz_ hal-s,a _bad?_ x x x _lal3 i3-nun-na_ x [...] 
+12. u3 szur-szu-me _kasz tesz2-bi hi-hi_ x-ri# sza2 _{na4}ara3_ [x] 
+13. ana _sza3 szub_ tu#-szab-szal [x x x x x] sza#-szu-nu _hi-hi_ x x x [x x] 
+14. ina _a-mesz {gesz#}gig#_ [...] x nu# ra#-ha-s,u2-ma# _[ti-la]_ 
+$ single ruling 
+15. ana a-mur-ri-qa-ni ka-lisz-ma nu-hi bu#?-bu-x-ti 
+16. u3 _nam-RU#? zi_-hi e-nu-ma _ak#?-mesz_ x x ina _a#-mesz#_ x [x] 
+17. em-mu-ti _nu#-luh#?-ha_ x-ma _u2_ sza-asz-sza2-t,a [x x x] 
+18. i-na _i3-gu4 szesz2#-szesz2# ti-la_ 
+$ single ruling 
+19. ana hi-mi3-it, _u4-da_ ka-lisz-ma {u2}ap-ru-sza {u2}si-ha {u2#}[x x] 
+20. _{szim}gur2-gur2 {szim}li_ x x x x x _{d}utu tesz2-bi_ ta#-[x] _hi-hi_ 
+21. i-na _i3_ pu-ri _szesz2#-mesz#_-szu#-ma# _ti-la_ 
+$ single ruling 
+22. _DISZ_-ma _{lu2}a-zu_ x x _e2#?_ [x x x] x x x me ka-bit : _du11-ga!_ x [x x] 
+23. {u2}ha-ra#?-lu#?-na i-na _a-mesz nag_-ma pa-ra#-[a] 
+24. _u2 suhusz {u2}gir2-tab_ ta-sak3 i-na _a-mesz nag_-ma pa-ra#-a# 
+$ single ruling 
+25. {u2}x x ta-sak3 i-na _a-mesz nag_-ma x [x x] 
+26. [...] i-na _a-mesz nag_-ma# x [x x] 
+$ single ruling 
+27. [...] x _{u2}gir2-tab_ i-na _a-mesz_ [x x x] 
+28. [...] i-na _a-mesz nag_-ma [x x x] 
+29. [...] {u2#}x x ma#? la# a#? [x x x] 
+30. [...] x x [x x x] 
+$ rest broken 
+ 
+
+
+&P281815 = BAM 2, 194 
+#atf: lang akk 
+@tablet 
+@obverse 
+@column 1 
+1. [...] 
+$ single ruling 
+2. [...] hal? 
+$ single ruling 
+3. [...] x _di-ku5_ 
+4. [...] sze-ri3 
+5. [...] _nag#?_-szu2 
+6. [... _ti]_-ut, 
+$ single ruling 
+7. [...] x 
+$ rest broken 
+@column 2 
+1. _uzu ze2_ [...] 
+2. _dur nu-nu 3(disz) [ka-keszda] kesz2#_ 
+3. 3(disz) lip2-pi ta-lap-pap 
+4. ina ki-s,al-li-szu2 _kesz2_-su 
+$ single ruling 
+5. {na4}szu-u _nita_ {na4}kak-ku-us 
+$ single ruling 
+6. _DISZ na sa mud_-szu2 _gub-gub_-az 
+7. _sa masz-da3 nu-nu e3_ 
+8. [3(disz)] _ka-keszda kesz2_ 
+9. _[en2]_ ka-ra-ra-tum 
+10. _[szid]_-nu# ina _giri3_-szu2 _kesz2_ 
+$ single ruling 
+11. [...] x ti 
+12. [...] x usz 
+13. [...] masz/bar 
+14. [...] tum# 
+15. [...] _gar_ 
+16. [...] x 
+$ rest broken 
+@column 3 
+1. {na4#?}NE _{na4?}an-bar_ 
+2. _{na4}an-zah_ {na4}mu-s,u 
+3. {na4}lu-lu-tum 
+$ single ruling 
+4. 1(u) 8(disz) _na4 nam-erim2-buru2-da_ 
+5. ina _{sig2}aka3 sila4-nim_ 
+6. u _{munus}sila4-nim e3_ 
+7. {u2}ta-sar-ra 
+8. {u2}el-li-ba 
+9. _u2 sikil {gesz}haszhur gesz-gi_ 
+10. _{u2}kur-kur {u2}an-ki-nu-te_ 
+11. _{u2}nig2-gidru_ {u2}a-nu-nu-tum 
+12. _{u2}a-zal-la numun_ {gesz}bi-ni 
+13. _{u2}in-nu-usz {gesz}geszimmar-tur_ 
+14. _gi szul-hi {u2}sullim_ 
+15. {u2}tar-musz8 {u2}ku-usz-tu8 
+16. _numun {gesz!}ildag2 numun_ {gesz}mur-ri 
+17. _numun {u2}szakir numun {u2}ka-zal_ 
+18. _numun {gesz}ma-nu_ 
+19. _numun u2_ ASZ-lim _numun {u2}dili_ 
+20. _u2-hi-a_ an-nu-tim# 
+$ rest broken 
+@column 4 
+1. _u4-sakar_ ina _murub4 e3_ 
+2. _mud_ i-di ana i-di 
+3. _en2 i-bu-uh_ 3(disz)-szu2 
+4. _szid_-nu ina _gu2_-szu2 _gar_-an 
+$ single ruling 
+5. ana szim-ma-tim 
+6. u3 ri-mu-tim 
+7. ni-ri s,al-mu-tim 
+8. sza pi-ri-is _gu-mesz_ 
+9. ana 3(disz)-szu2 _tab_-ip 
+10. 3(disz) _ka-keszda kesz2_ 
+11. e-ma _ka-keszda_ 
+12. _en2 i-bu-uh_ 3(disz)-szu2 _szid_ 
+13. _i3-gesz mud a2-min_-szu2 
+14. tu-masz-sza2-a' _kesz2_-su 
+$ single ruling 
+15. _{na4}babbar-dili {na4}szuba_ 
+16. _{na4}asz-gi4-gi4_ 
+17. {na4}a-a-ar2-tum 
+18. _{na4}szurun_ {d}sze-risz 
+19. _{na4#}gesz-nu11-gal_ 
+20. [{na4}]x _uh2-{d}[id2]_ 
+21. _[na4] zu2#-lum#?_ 
+$ rest broken 
+@column 5 
+1. [...] 
+2. [...] 
+3. [...] 
+4. [...] 
+5. sza _szu nam#-[erim2]_ 
+6. u _sag-hul#-[ha-za?_ ...] 
+$ single ruling 
+7. _{na4}babbar-dili_ {na4#}[x ...] 
+8. _{na4}asz-gi4#-[gi4]_ 
+9. _{na4}szurun_ {d#}[sze-risz] 
+10. _{na4}gesz-[nu11-gal]_ 
+11. {na4}NE#? [...] 
+12. {na4}x [...] 
+13. {na4}[x ...] 
+14. {na4}[x ...] 
+15. {na4}[x ...] 
+16. {na4}[x ...] 
+17. {na4}[x ...] 
+@reverse 
+@column 1 
+$ beginning broken 
+1'. {na4}[x ...] 
+2'. {na4#}[x ...] 
+$ single ruling 
+3'. {na4}[x ...] 
+4'. mu [...] 
+5'. {na4}[x ...] 
+@column 2 
+$ beginning broken 
+1'. _na4 gar_-szu2 _gin7 an-zah#_ [u _babbar na4 bi_ {na4}hu-luh-hu _mu-ni]_ 
+$ single ruling 
+2'. _na4 gar_-szu2 _gin7_ as-har [...] 
+3'. _na4 bi_ {na4}hu-luh-[hu _mu-ni]_ 
+4'. _na4_ ana _e2-gal [ku4 ...] 
+$ single ruling 
+5'. _na4 gar_-szu2 _gin7 an-zah_ u _ge6# [na bi {na4}an-zah-ge6]_ 
+6'. _mu-ni_ ana _igi-mesz gig#_ [...] 
+$ single ruling 
+7'. _na4 gar_-szu2 _gin7 {na4}zu2 ge6_ {na4}a-gu#-[si-gu _mu-ni]_ 
+8'. _na4_ ki-s,ir _sza3 dingir du8 na4 nam#-[erim2 bur2?]_ 
+$ single ruling 
+9'. _na4 gar_-szu2 _gin7 {na4}zu2 sig7_ u sa-di#-ri# [i-szu?] 
+10'. _na4 bi {na4}ugu!-asz2-gi4-gi4 [mu-ni]_ 
+$ single ruling 
+11'. _na4 gar_-szu2 _gin7 ga-ras{sar} sig7_ ti-ik-pu-szu _nu#_ [x] 
+12'. u sa-di-ri i-szu _na4 bi_ {na4}hu-si-gu _mu-ni_ 
+13'. _na4_ ha-ia-a'-tu ana _na nu te_-e 
+$ single ruling 
+14'. _na4_ sza2 _ge6_-szu2 _sa5_ pe-lu-u2-ti u2-kal _{na4}ka-gi-na dab_ 
+15'. _mu_-szu2 _na4_ ki-na-a-ti _gar_-szu2 _gi-na_ lid-bu-ub 
+16'. mim-ma sza2 ina _ka_-szu2 _e3_ kit-tu2 u sa-ar-tu2 ana _{d}utu_ 
+17'. u2-sza2-an-na _lu2_ na-'-du-ma _gar_-szu2 ih-zi-szu2 
+18'. _ku3-babbar hub2-til_-szu2 _sig5_-ma 
+@column 3 
+$ beginning broken 
+1'. [... _u4-da] sa2#-sa2_ 
+2'. [...] x _lugal# idim_ u _nun_ 
+3'. [...] x _na4_ ta#?-mar-ti _na4 nun si_ 
+4'. [x x x] ul-lu-li _bad_ na-'-du-ma _gar_-szu 
+5'. [ina _ku4] masz2#-ansze_ ina _iti u4 7(disz)-kam2_ 
+6'. _[u4 x]-kam2 u4 2(u)-kam2 u4 2(u) 1(disz)-kam2 u4 2(u) 7(disz)-kam2 u4 2(u) 8(disz)-kam2_ 
+7'. [x x] x i-hasz-szi-ih _nu_ el-la la i-la-pat 
+8'. [x x] _gar3#_-szu2 lisz-hu-ut, ina _gada nigin gar_-an 
+$ single ruling 
+9'. _{na4#}kiszib {na4}ka-gi-na gar na bi_ sza2 ir-szu-u u2-hal-laq 
+10'. _{na4#}kiszib {na4}za-gin3 gar tesz2-a dingir tuku dingir bi hul2_-szu2 
+11'. _{na4#}kiszib {na4}duh-szi-a gar a2-tuku_ i-rap-pisz _mu-ni sig5_ 
+12'. _{na4#}kiszib {na4}bir2-babbar-dili gar_ ina _sza3-hul2-la al-du-du_ 
+13'. _{na4#}kiszib {na4}nir2-musz-gir2 gar ki du_-ku _sze-ga_ u _sze-ga gar_-szu2 
+14'. _{na4#}kiszib {na4}gug gar_ re-du-um ina _su lu2_ 
+15'. _nu du8_-ar2 
+ 
+ 
+
+
+&P281819 = BAM 3, 208 
+#atf: lang akk 
+@tablet 
+@obverse 
+@column 1 
+$ beginning broken
+1. [...] x ana x 
+2. [...] _al-ti_ 
+$ single ruling 
+3. [...] _szub_-di 
+4. [...] _nig2-ak#-a_ 
+5. [...] x _da_ 
+6. [...] x tu 
+$ single ruling 
+7. [...] x 
+8. [...] usz# 
+9. [...] x 
+10. [...] x 
+$ single ruling 
+11. [...] x 
+12. [...] x 
+$ rest broken
+@column 2 
+$ beginning broken
+1. _ki-min ga_ [x] _masz tab_-su x [...] 
+2. u 7(disz)-szu2 _du11-ga_-ma _{u2}sikil_ ina 8(disz) x [...] 
+$ single ruling 
+3. _DISZ ki-min mun {szim}im-du#_ u2 [...] 
+4. _{u2}nu-luh-ha_ ina _a_ tar-s,a-an ina# [...] 
+5. ina szer3-ti tu-sak ba-lu pa#-[tan ...] 
+$ single ruling 
+6. _DISZ ki-min_ ha-s,a-ab-tu2 sza ina qut-ru at x [...] 
+7. ana _sza3 kasz-sag szub_-di ina _u4-na2-a_ ana _igi_ [...] 
+8. kasz-szap-ti kisz-pu-ki li-isz x [...] 
+9. li-is,-ba-tu-ki isz [...] 
+$ single ruling 
+10. _DISZ ki-min_ {u2}nu-nu-tu2 tu-bal# _gaz# [sim]_ 
+11. _numun {u2}babbar-hi{sar}_ [...] 
+12. tu-sak ba-lu [...] 
+$ single ruling 
+13. _DISZ ki-min si dara3#-[masz_ ...] 
+14. x x [...] 
+$ rest broken
+@reverse
+$ broken
+ 
+ 
+
+
+&P282334 = BAM 3, 214 
+#atf: lang akk 
+@tablet 
+@obverse 
+@column 1 
+1. _be_-ma _na igi-mesz_-szu2 _nigin_-du-szu2 
+2. _gesztug-mesz_-szu2 i-sza2-gu-ma 
+3. _uzu-mesz_-szu2 szim-ma-ta 
+4. _tuku-tuku_-u2 
+5. _sza3_-szu2 it-ta-na-at-s,ab 
+6. _gar_-in _gig_-szu2 nu-zu-zu 
+7. _na bi_ ka-sip 
+8. _nu-mesz_-szu2 _du3-mesz_-ma ina _ki gul-mesz_ 
+9. ana _{d}eresz-ki-gal_ pa-ag-du 
+10. ana _usz11-bur2-da kam2_ 
+11. sza2 _nu-mesz_-szu2 _du3-mesz_-ma 
+12. ina _ki gul-mesz DISZ {d}eresz-ki-gal_ 
+13. [x x] x _du_ 
+14. [x x x x] _kam2_ 
+15. [x x x x] _imhur4#_ 
+16. [x x x x x] x 
+$ rest broken 
+@column 2 
+1. _nig2-nam {szim}li dub_-ak 
+2. _udu-siskur ku3-ga du3_-usz 
+3. _{uzu}zag uzu-me-zag_ szu-me-e sza2 
+4. _kasz-sag bal_-qi2 
+5. _na bi_ ina _ugu {gesz}szinig ku3_ 
+6. tu-t,u2-s,a-su-ma 1(u) 4(disz) _nu-mesz im_ 
+7. li-pi _i3-udu duh-lal3_ sza2 _lu2-usz11_ 
+8. u _munus-usz11 du3_-usz _il2_-ma 
+9. ana _igi {d}utu_ ki-am _du11-ga_ 
+$ single ruling 
+10. _{d}utu di-ku5 an_ u _ki_-ti 
+11. _di-ku5 ba-usz2_ u _ti-la_ at-ta-ma 
+12. ana _il2_-szu qu-lam-ma 
+13. a-lak-ti li-szat 
+14. _lu2-usz11_ u _munus-usz11 ti_ 
+15. [...] x-at _kusz ti-la_-at 
+16. [... x]-ia _kusz tur-mesz_ 
+$ rest broken 
+@reverse 
+@column 1 
+$ beginning broken 
+1'. an#-ni#-tu2# _du11-ga_-ma ana# _id2#_ x 
+$ single ruling 
+2'. 2(u) _til_ x 
+$ single ruling 
+3'. _{d}utu di-ku5_ kisz-sza2-a-ti 
+4'. mu-du-u2 ka-la-ma 
+5'. _{d}utu_ ina ba-lu-ka e-pesz _hi-a_ 
+6'. _hi-a ul du3_-usz u pa-at-hat an-na-a 
+7'. _ul_ i-pa-tu-pa ina ba-lu-ka 
+8'. _{d}utu_ an-nu-u2 _nu lu2-usz11 mu_ 
+9'. u _munus-usz11 mu_ sza2 kisz-pi ru-he-e 
+10'. ru-sze-e up-sza-sze-e la _du11-ga-mesz_ 
+11'. nap-sza2-sza2-ti na-asz-pa-ra-a-ti 
+12'. _hul#-gal2# zi-ku5_-t,e3-e _ka-dab-da-kam_ 
+13'. _di-bal-e-da_-ma _kur2_-e 
+14'. u lem-ne2-et t,a3-me2 e-pu-sza2 
+15'. [...] x x x x x x x x 
+@column 2 
+$ beginning broken 
+1'. [...] ni-pi-sze 
+2'. sza _szu_ kisz-pi 
+3'. _szu {m}{d}KU.A isz-ma-ni _masz-masz_ 
+4'. _a {m}utu-masz masz-masz_ 
+5'. _ki me me me masz-masz-ma_ 
+ 
+
+
+&P281818 = BAM 3, 254 (Ist A 229) 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _illu_ ba-luh-ha {gesz}ba-luh-ha 
+2. _{szim}hab_ {u2}hu-ba-nu a ri sum 
+3. {u2}hu-bi-di-a-nu 
+4. {u2}ki-ir-ki-ri-a-nu 
+5. {u2}t,u-pi? 
+6. _{u2}sze-li_ <pi?>-isz-ri 
+7. _{szim}gur2-gur2 {szim}li_ 
+8. {u2}a-ra-ri-a-nu 
+@reverse 
+1. {u2}im-hu-<ur>-lim 
+2. {u2}im-hur-asz2-na 
+3. _{u2}nu-luh-ha_ {u2}sah-la-a-nu 
+4. {u2}s,i-bu-ru 
+5. _{u2}kur-gi-erin2-na_ 
+6. {u2}ti-gi-lu-u2 
+7. {u2}qa-tu-nu sza _kur_-e 
+8. {u2}si-ip-ru 
+9. _{u2}numun gi-zu2-lum_ 
+10. {u2}bu-na-nu 
+11. _{u2}dili {u2}numun dili_ 
+22. _u2 numun sa5 u2 du3-a-bi_ mim-ma _hul#!_ 
+ 
+ 
+
+
+&P285347 = BAM 3, 263 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. _{szim}gur2-gur2 {szim}li#_ [...] 
+2. _{u2}kur-kur {szim}{d}masz_ 
+3. _{szim}ses_ {szim}x 
+4. _illu {szim}buluh_ 
+5. {u2}ap2-ru-szu2 _{u2}an-ki-nu-te#_ 
+6. _numun_ {u2}szu2-mut-te _{u2}kur-ra_# 
+7. {u2}ku-di-mi _pesz10-{d}id2_ 
+8. _numun {u2}hur-sag_ 
+9. _{u2}naga si_ KU.KU _si-dara4_ 
+10. _usz2_ x x _usz2#_ e#-re#-nu# 
+@reverse 
+1. szu-lu-ut, [...] x [...] 
+2. a-na nap-szal-ti [...] 
+3. x _{u2}lal_ LI# 
+4. x NISZ {m}{d}ra#-ma-ni-[x] 
+5. _lu2#-masz-masz_ ma-hi-ir 
+$ single ruling 
+ 
+ 
+
+
+&P281820 = BAM 3, 314 
+#atf: lang akk 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. [...] x gu#-la#? x [...] 
+2'. [x x x] x _ur-gi7_ sza _ka2_ x [...] 
+3'. [x x] _lal3 i3-nun-na#?_ [...] 
+$ single ruling 
+4'. [x x x] _dul#-dul?_-tam u hur-ba#-[szu2 ...] 
+5'. [x x _dab]_-ti# {d}gu-la _gal2_-szu2 [...] 
+6'. [x x x] x _{d}me-me_ li-qisz x [...] 
+7'. [x x] is,#-s,e-e-ma _gar_-x [...] 
+$ single ruling 
+8'. [x x x] x x _bur2_-ri x [...] 
+9'. [x x] _gub#_-an ik-ki-i u2-[x ...] 
+10'. [x x] x _lal3 i3-nun gar_-an _ugu#_ [...] 
+11'. [x] x _ne_ qa-at i-szar2-ra#-[aq ...] 
+12'. [x] _i3#_ hal-s,i u2-na-ah [...] 
+$ single ruling 
+13'. [x x] x x x [...] 
+$ rest broken 
+@reverse 
+$ beginning broken 
+1'. [...] 
+2'. [...] _bur2#_-ri [...] 
+3'. [...] {na4}[x ...] 
+4'. [...] x _dab-ba_ {na4#}[x ...] 
+5'. [...] _{na4}an-x_ [...] 
+6'. [...] _u4# 1(u) 4(disz)-kam2_ ina#? [...] 
+7'. [... x]-szu2 isz8-tar2?-szu2 x [...] 
+$ single ruling 
+8'. [...] _ka#_-szu2 im-ta-na-asz-szi# [...] 
+9'. [...] x-szu2 _ki_-szu2 ze-nu-u2# [...] 
+10'. [...] _nigin?_-szu2 _gar_-an-ma#? [...] 
+11'. [... x]-szu2 _ki_-szu2 _silim_-mi [...] 
+$ single ruling 
+12'. [...] x ma na x x [...] 
+13'. [...] x [x] x x [...] 
+$ rest broken 
+ 
+
+
+&P281823 = BAM 3, 316 
+#atf: lang akk 
+@tablet 
+@obverse 
+@column 1 
+$ beginning broken
+1'. [x x] _sze-na-a ki-lu2#_ [...] 
+2'. [x x] _nu dab-ba {u2}lal_ {u2#}[x ...] 
+$ single ruling 
+3'. [x] _dingir#_ u {d}isz8-tar2 ze-nu-ti# [...] 
+4'. {u2}tar-musz8 _{u2}igi_-lim _{na4}{d}kal_ [...] 
+$ single ruling 
+5'. ana _dingir_-szu2 u {d}isz8-tar2-szu2 _ki_-szu2 ana _di_ [...] 
+6'. _{u2}a-zal-la_ {u2}tar-musz8 _numun_ {u2}x [...] 
+$ single ruling 
+7'. ana _dingir-sza3-dab-ba bur2_ u _dingir_ ki-ma# [...] 
+8'. {u2}kap-pi lu-ur-<mi>{muszen} _pesz10-{d}id2_ {na4#}[x ...] 
+9'. isz-gib-bit KU DAM [...] 
+$ single ruling 
+10'. _DISZ ki-min {u2}eme ur-gi7 {u2}igi_-lim _{gesz}szur-min3_ [...] 
+11'. _DISZ ki-min_ {u2}tar-musz8 _{u2}har-lum-ba-szir_ x [...] 
+$ single ruling 
+12'. ana _dingir_ ana _lu2 arhusz tuku_-e _arhusz ab2_ u _udu arhusz_ x [...] 
+13'. ina _ga sud2 igi-mesz_-szu2 _esz-mesz_-ma _dingir arhusz_ [...] 
+$ single ruling 
+14'. ana _ki-min {na4}an#-ne#_ {na4}ab-asz-mu _suhusz {gesz}nim-babbar_ ina# [x] 
+$ single ruling 
+15'. ana _dingir_-szu2 u {d}isz8-tar2-szu2 ana _lu2 ama5 tuku_-e# [...] 
+16'. _{u2}kur-kur {na4}pesz4 a-ab-ba {u2}a-[x_ ...] 
+$ single ruling 
+17'. ana _dingir {gesz}zu_ ana _lu2_ nu-uh2-hi is-si-ha [...] 
+18'. _{gesz}lum-ha {u2}kur-kur {szim}li {u2}nigin sar#_ [x x] 
+19'. _du3-du3_ ina _gu2_-szu2 _gar_-an-ma {d}2(u) _bad_ u _nun ama5#_ [x x] 
+$ single ruling 
+20'. ana _dingir_ u {d}isz8-tar2 _gesztu-mesz_-szu2 _bad-bad_ u x [x x] 
+21'. _sig5_ ta-na-da-li _pa ti8{muszen}_ {na4}[x x] 
+22'. {u2}nu-s,a-bu {u2}a-ra-ri-a-nu _{u2}eme# [ur-gi7]_ 
+23'. [{u2}]a-ra-an-tu _suhusz {gesz}dih3_ sza _ugu [ki-mah_ ina _kusz]_ 
+24'. [ina sze]-ri3# ana _dingir_-szu2 _ki-za-za_-ma _a-ra-zu [gesz-tuku]_ 
+$ single ruling 
+25'. [x x x x] x szal-lim pa-lu-ur# [...]
+$ rest broken 
+@column 2 
+$ beginning broken
+1'. [x] x [...] 
+$ single ruling 
+2'. _du3-du3-bi na4 {na4}amasz-pa-e3_ [...] 
+3'. _{na4}ur {na4}{d}kal {na4}zu2-[ge4_ ...] 
+4'. ina _dur babbar e3 en2_ 7(disz)-szu2 ana _ugu szid_-nu x [x x] 
+$ single ruling 
+5'. _DISZ na_ ze-na-a szu-t,ur ur-ra u _ge6_ ina _hasz2 zi-ga_ sa-dir-szu2 
+6'. isz-di-ih-szu2 _tar_-si kar-s,i2-szu2 _gu7-mesz_ da-bi-ib _ki_-szu2 kit-te 
+7'. _nu du11-du11_-ar2 _szu-si hul_-tim _egir_-szu2 _lal ze2_ ina _e2-gal du_-su 
+8'. la mah-ra-szu2 _masz2-ge6-mesz_-szu2 par-da ina _masz2-ge6_-szu2 _bad-mesz igi-igi_-mar 
+9'. _gaz sza3 nig2_-szu2 szal-hat _dingir_ u {d}isz8-tar2 _ugu_-szu2 _gal2_-a _dingir_ u {d}isz8-tar2 
+10'. _ki_-szu2 ze-nu-u2 kisz-pi ep-szu2-szu2 _ki dingir_ u {d}isz8-tar2 szu-zu-ur 
+11'. _asz2#-mesz_-szu2 re-ha _dingir man bad-nun_ szu2-su _dab_-szu2 
+12'. x _lu2-hal_ u _lu2 dingir-ra_ di-in-szu2 _en_ 7(disz)-szu2 _nu si-sa2_ 
+13'. _du11-ga nu sze-ga_ sza2-nu-szu2 
+14'. ana _esz-bar_-szu2 _tar_-si _tumu_ [x x x] x [x] ana _si-sa2_ 
+15'. _masz2-ge6-mesz_-szu2 ana _sig5_ x _a-ra2_-szu2 ana _kusz di_ 
+16'. _szu-si sig5_-tim-szu2 ana _lal_-s,i2 
+$ single ruling 
+17'. _du3-du3-bi_ {u2}tar-musz8 _{u2}igi_-lim _{u2}igi-nisz_ 
+18'. {u2}ir-kul-la {u2}eli-kul-la _{u2}lu2_-a-nu 
+19'. _ka a-ab-ba {gesz}gada naga {gesz}bulug2_ ina _kusz du3-du3_ 
+20'. _en2 a-la-ah-sa-la ba-szi-in_ [x ...] _en2_ 
+21'. _en2 a-ra-zu szu te-ma-ab_ 7(disz)-szu2 ana _ugu szid_-nu _gu2 ba-gar_ 
+22'. _na bi dingir_-szu2 u {d}isz8-tar2-szu2 _ki_-szu2 _di-mu inim-gar_-szu2 _si-sa2_ 
+23'. _masz2-ge6-mesz_-szu2 _sig5-mesz du11-ga_ u _sze-ga gar_-an-szu2 
+24'. _dingir man bad_ u _nun ki_-szu2 _dub_-zu 
+25'. [x] e-em ana di-nim _du_-ku di-in-szu2 _si-sa2_ 
+$ single ruling 
+26'. _DISZ na dab_-ti _dingir_ u {d}isz8-tar2 _ugu_-szu2 _gal2_-szi 
+27'. _e2-gal_-szu2 u _lugal_-szu2 la ma-gir-szu2 kar-s,i-szu2 _gu7-mesz_ 
+28'. dab-bi-szu i-dab-bu-bu ta-di-ra-ti ul ta-dir 
+@column 3 
+$ beginning broken
+1'. _DISZ na_ x x x [...] 
+2'. u _du8_-ar2 ar2-ni-szu2 _{na4}kur_-nu _[dab_ x x] 
+3'. ni-kip-tu2 _nita2_ u _munus {d}masz gi babbar?_ [x x x] 
+$ single ruling 
+4'. _DISZ ki#-min#? {na4#}gug {na4#}za#-gin3_ {na4}[x ...] 
+5'. [x x x] _{na4}ku3-babbar {na4}ku3-sig17 7(disz) na4-mesz_ an-nu#-[ti] 
+6'. ina _sig2# {munus}asz2-gar gesz3 nu zu nu-nu e3_-ak# 
+7'. ina _gu2_-szu2 _gar_-an-ma _dingir_ ze-nu-u2 _di_-im 
+$ single ruling 
+8'. _DISZ na sza3_-szu2 _gaz-mesz_-szu2 pi-qam _nu_ pi-qam i-par-ru-ud2 
+9'. _na bi dub_-ti _dingir_ u {d}isz8-tar2 _ugu_-szu2 _gal2_-szi _dingir_-szu2 _ki_-szu2 ze-ni 
+10'. ana _bur2 ka a-ab-ba_ {u2}nu-s,a-bu _{gesz}szur-min3 {u2}nigin{sar}_ 
+11'. _{na4}zalag2 {u2}dili_ ina _{sig2}aka3 nigin_-mi ina _kusz du3-du3_ 
+12'. ina _gu2_-szu2 _gar_-an-ma _dingir sza3 dab-ba di_-im 
+$ single ruling 
+13'. _DISZ na gaz sza3_-bi _tuku-mesz_-szi _u4_ u _ge6_ pu-luh-tu2 _tuku_-szi 
+14'. _dingir_-szu2 _ki_-szu2 ze-ni _dingir_-szu2 _ki_-szu2 ana _silim-me_ {u2}szi-qit-tu2 
+15'. _ka a-ab-ba {na4}babbar-dili {na4}ab-me-kam_ 
+16'. ha#-he-e sza2 _udun {zi3}mad-ga igi {d}nuska_ ina _kusz_ 
+$ single ruling 
+17'. _DISZ na sza3_-szu2 _gaz-mesz_-szu2 _{u2}igi_-lim _nu {gesz}esi gu7-mesz_ 
+18'. ina _kasz nag i3-gesz esz-mesz_ ina _{sig2}aka3 nigin_-mi ina _kusz_ 
+$ single ruling 
+19'. _DISZ ki-min {u2}a-zal-la2 sud2_ ina _kasz nag_-szu2 
+$ single ruling 
+20'. _DISZ na sza3_-szu2 _nu_ ul-la-ti i-ta-mu 
+21'. {u2}ir-kul-la {u2}tar-musz8 _{u2}har-lum-ba-szir_ 
+22'. _{u2}lu2_-a-nu _pesz10-{d}id2 ka a-ab-ba_ ina _kusz_ 
+$ single ruling 
+23'. _DISZ na_ hu-us,-s,a _gaz sza3_-bi u _zarah tuku-mesz_-szi 
+24'. _nu_ ul-la-ti _sza3_-szu2 i-ta-mu 
+25'. _{u2}a-zal-la2 {u2}igi_-lim ina _kasz_ ina _i3-gesz_ ina _kusz_ 
+@reverse
+@column 1 
+1. _DISZ ki-min {u2}igi_-lim _numun_ {gesz}bi-ni ina [...] 
+$ single ruling 
+2. _DISZ ki-min_ {u2}a-ra-ri-a-nu _numun_ {gesz}bi-ni _numun {u2}a-zal-la2_ ina _kasz-sag nag_ 
+$ single ruling 
+3. _DISZ na sza3_-bi _sza3_-bi i-qab-bi _sza3_-szu2 _nu gu7_-szu2 _ninda nu gu7 a nu nag_ 
+4. i-dam-mu-um# _na bi dab_-ti _dingir_-szu2 u {d}isz8-tar2-szu2 _ugu_-szu2 _gal2_-szi 
+5. ana _igi_ {d}isz8-tar2 _sar-sar na_ ina _giri3_-szu2 _du10-gam_-su-ma 
+6. _en2_ el-li-tu4 {d}isz-tar 7(disz)-szu2 _szid_-nu 
+$ single ruling 
+7. ana t,a-pul-ti _lu2_ la qa2-bi-i _szu-si hul_-tim _egir_-szu2 _nu lal_-s,i2 
+8. _{u2}igi_-lim {u2}ha-szu-tu2 _{u2}kur-kur {na4}szurun_ sze-risz ina _kusz_ 
+$ single ruling 
+9. _DISZ ki-min {u2}igi_-lim i-[x]-iz-ma ina _i3-gesz bur sud2# igi#-mesz#_-szu2 _szesz2_ [x] 
+10. ina _kasz nag-mesz_ e#-[ma] _du#_-ku ma-gir t,a-pul-ta-szu2 ul i#-[qab]-bi# 
+$ single ruling 
+11. [...] {gesz}si-ha {gesz}nu# [x x] 
+12. [...] _{u2}ninni5#_ 
+13. [...] ina _kusz_ 
+14. _ki#_ [... x]-hi-a li-li-mu de3#-ra#_ 
+15. [x x] x _ab_ x [...] _tu6-en2_ 
+16. _en2_ an-ni-tu2# [...] [ana] _ugu# szid_-nu 
+$ single ruling 
+17. _DISZ ki-min numun_ {u2}[x ...] ina _kusz_ 
+$ single ruling 
+18. _DISZ u4#-da#_ [...] {u2}ak-tam _{u2}igi_-lim 
+19. {u2}ha-mi-mu _{d}masz {na4}ka-gi-na# dab#-ba_ ina _kusz_ 
+$ single ruling 
+20. _DISZ u4-da ugu_-pat _gig#_ {u2}ak#-tam# 
+21. {u2}ha-mi-mu _{na4}ka-gi-na dab-ba_ ina _kusz_ 
+$ single ruling 
+22. _{na4}za-gin3_ ina _si_ KU KA has,-bi e-ma _du_-ku ma-gir# [x] 
+23. _gin7 dingir_-ni-is-sat _sza3_-szu2 _kur_-ad2 _masz2-ge6-masz_ [x x x] 
+24. _dingir man bad_ u _nun_ e-ma x [...] 
+$ single ruling 
+25. [...] 
+$ rest broken
+@column 2 
+1. [x x] _du#_ x x _x-zu sag-ki_-szu2 _ka_-szu2 _eme_-szu2 u _ki-ta giri3_-szu2 
+2. [x] x _kar_-ma _a-ra-zu-bi gesz-tuku en_ 7(disz)-szu2 ina _u4 du10-ga_ 
+3. an#-na-a _du3_-usz-ma _dingir_ ze-nu-u2 {d}isz8-tar2 ze-ni-tu2 _ki lu2 silim-mu_ 
+$ single ruling 
+4. _DISZ na_ gi-na-a a-dir ur-ra u _ge6_ ina _hasz2_ 
+5. mim-ma ku-nu ana _na nu te_-e _agrig hul_ ana _na_ u _e2_-szu2 
+6. _nu gal2_-e kip-di _hul-mesz lu2 nu sa2-di_ 
+$ single ruling 
+7. {na4}aba3-asz-mu _{na4}za-gin3 {na4}zu2-lum-ma_ 
+8. ina _dur babbar e3_-ak ina _gu2_-szu2 _gar_-an 
+$ single ruling 
+9. _{na4}za-gin3 {na4}an-bar numun {gesz}esi_ ina _dur babbar e3_-ak ina _szu zag_-szu2 _kesz2_ 
+$ single ruling 
+10. {na4}aba3-asz-mu {na4}ka-pa-s,u _sa5 {na4}pa_ 
+11. ina _dur babbar e3_-ak ina _szu gub3_-szu2 _kesz2_ 
+$ single ruling 
+12. _[{na4}]gesz-nu11-gal_ {na4}ni-bu _{na4}nir2_ 
+13. [ina] _dur# babbar e3_-ak ina _giri3 zag_-szu2 _kesz2_ 
+$ single ruling 
+14. _{na4#}szuba# {na4}za-gin3 {na4}pa_ ina _dur babbar e3_-ak ina _giri3 gub3_-szu2 _kesz2_ 
+$ single ruling 
+15. [...] 
+16. [...] 
+$ single ruling 
+17. [...] x x [x x x x] ana szu-ut gu-ri 
+18. [...] _inim_ sza2 _di du11-ga du10_ u _sze-ga_ ana _na bi gar_-nu 
+19. [... ana] _na# nu te_-e kip-di _en ka_-szu2 szu ud-de-e 
+20. [...] _egir lu2_ u _e2_-szu2 _nu lal#_-s,i# 
+21. [...] x qi2-bit _ka_-szu2 ana sze#-me-e 
+$ single ruling 
+22. [...] _{szim#}li_ ina _e2 tar_-su ana _dingir_-szu2 
+23. [...] _dingir_ u _ur5-gin7 du11-ga_ 
+$ single ruling 
+24. [...] _he2-silim-ma-mu_ 
+25. [...] _he2-silim-ma-mu_ 
+26. [...] _dingir-me he2-gub_ 
+27. [... _dingir_ u {d}isz8]-tar2#-_mu he2#-gub#_ 
+28. [...] _lu2_ {gesz#}x [...] 
+$ rest broken
+@column 3 
+$ beginning broken
+1'. [...] x x sza2 {d}[x ...] 
+2'. [...] hi szal _en2_ 7(disz)-szu2# [...] 
+3'. [...] _na2#_-ka _gar_-an-ma _nam#-bur2#-[bi]_ 
+$ single ruling 
+4'. _DISZ# na_ nu-[ul-la]-ti# _sza3_-szu2 i-ta-mu at-[mu-szu2 i]-sza2 an-ni# 
+5'. za-mar s,a-lil za-ma e-er-u _ki_-szu2 _nu dab_-al 
+6'. _dab_-ti _dingir_-szu2 _ugu_-szu2 _gal2_-szi _na bi_ ina _u4 sze-ga_ 
+7'. li-te-le-el lim-te-si _tug2_-su li-bi-ib 
+8'. _nig2-na {szim}li_ ana _igi {d}utu_ lisz-ku-un 
+9'. _nig2-na {szim}szesz!_ ana _igi dingir uru_-szu2 lisz-ku-un u _a-mesz_ liq-qi2 
+10'. lik-mis-ma lit-nen u _ur5-gin7_ liq-bi 
+11'. ag-gu _sza3_-ka li-nu-ha _a-mesz_ ta-ni-ih-ti 
+12'. lim-ru-hu-ka 3(disz)-szu2 _du11-ga_-ma _ki-za-za_ [x] 
+13'. [x x] _gur-gur_-ma _dab_-ti _dingir_-szu2 _du8_-su# 
+$ single ruling 
+14'. [...] x lum i#-[x ... ku]-ul#-la#-ti# [...] 
+15'. a-szar ki-i szam-mi ni-[x ...] 
+16'. er-s,e-tu ma-hi-rat ana ap-si# [a-dir-ti] 
+17'. la esz-ru-ti lim-hu-[ru a-di-ra-ti] 
+18'. i-sza2-ru-ti lim-hu-[ru-in-ni] 
+19'. szu-szu-ru-ti li-ten-[nu-u2] it-ti-ia 
+20'. lisz-du-ud ar-ni la pa-li-hi ma-har-qa lil-qu2 
+21'. ana-ku ana su-ul-li-ka ak-ta-mis ma har-[ka] 
+22'. lu#-sze-er lu-usz-lim-ma lu-ut-ta-'a-id _dingir_-ut-ka 
+23'. [da]-li2#-li2-ka lud-lul# 
+$ single ruling 
+24'. _[du3-du3]-bi_ e-nu-ma _{d}zu en_ in-nam-ma-ru 
+25'. _[igi] {d}zu en nig2-na {szim}li gar_-an _kasz-sag bal_-[qi2] 
+26'. [x x] u2#-szal-li _id2 ti_-qe2 _za-na_ nita du3_ [x] 
+27'. [x x] 3(disz)-szu2 ana _igi {d}suen_ ana _ugu szid#_-[nu] 
+28'. _[za]-na# nita_ ku-tal-la-nik-ka ana _id2 szub_-di-ma [x] 
+$ single ruling 
+29'. _DISZ# hul#? masz2-ge6-mesz a2-mesz giskim-mesz_ [x x] 
+30'. [...] ti sza2 x [x x x] 
+$ rest broken
+ 
+
+
+&P281832 = BAM 4, 327
+#atf: lang akk 
+@tablet 
+@obverse
+@column 1
+$ beginning broken
+1'. [... ana x x _sig_ ... x-ma] _ti_
+$ single ruling
+2'. _[u2 gar_-szu2 _gin7_ {u2}x x {u2}x x] _mu-ni_
+3'. [ana x x _sig_ ... _szesz2]_-su-ma TI
+$ single ruling
+4'. _[u2 gar_-szu2 ...] _gin7 babbar-hi{sar}_
+5'. [{u2}x x _mu-ni_ ana x x] _sig had2-a sud2_
+6'. [... x-ma] _ti_
+$ single ruling
+7'. _[u2 gar_-szu2 _gin7_ {u2}x x {u2}x x _mu-ni_ ana] _gesztu2#_ sza _lugud du#_-ku#
+8'. _[sig_ ... ana] _sza3 gesztu_-szu2 _gar_-an
+$ single ruling
+9'. _[u2 gar_-szu2 _gin7_ {u2}x x _gurun_-szu2 _gin7] gurun# {gesz}nu-ur2-ma_
+10'. [{u2}x x _mu-ni_ ana _murub4-min]-mesz_ asz2-t,a-te _sig_
+11'. [...] _la2_-ma _ti_
+$ single ruling
+12'. _[u2 gar_-szu2 _gin7_ {u2}x x ... _gin7]_ {u2}sah#-le2-e!?
+13'. [...] x
+$ rest broken
+@column 2
+$ beginning broken
+1'. _u2 gar_-szu2 _gin7 za3-[hi-li{sar}_ ... {u2}x x]
+2'. _mu-ni_ ana lam#-[s,a-te _zi_-hi _sig_ ...]
+$ single ruling
+3'. _u2 gar_-szu2 _gin7_ {gesz}li#_ [... x x-szu2]
+4'. ha-na-[ab?] _u2 bi_ x [x _mu-ni_ ...]
+$ single ruling
+5'. _u2 gar_-szu2 _gin7 kun gir2#-[tab_ ...]
+6'. _numun_-szu2 _gin7 gu2-gal_ x [...]
+7'. ina _gana2#? sahar# [e3_ ... {u2}x x _mu-ni]_
+8'. ana mur-ri#-[qa-ni _sig_ ...]
+$ single ruling
+9'. _u2 gar_-szu2 _gin7_ [...]
+10'. szu x [...]
+$ single ruling
+11'. _u2 gar_-szu2 [...]
+$ rest broken
+@reverse
+$ broken
+
+&P281828 = BAM 4, 334
+#atf: lang akk 
+@tablet 
+@obverse
+@column 1'
+$ beginning broken
+1'. [...] x
+2'. [...] x
+3'. [...] ta#? 
+4'. [...] x
+5'. [...] x
+6'. [...] il
+7'. [...] x ta
+8'. [...] _igi_
+$ rest broken
+@column 2'
+$ beginning broken
+1'. tah#? x x [...]
+2'. u ra-ma-ni-szu2-nu x x x
+3'. an-ni-tu2 _du11-ga_-ma
+4'. ina _ki_-ti la te-qe2-bir#-szu2-nu-ti
+5'. _nu_-szu2 ina _kasz-sag_ i-mah-ha-ah-ma
+6'. _il2_-ma ana _igi {d}utu_ ki-am _du11-ga_
+7'. _{d}utu nu_-me an-na-am
+8'. sza2 _{lu2}usz11_ u3 _{munus}usz11_-tum
+9'. ina _igi_-ka lem-nisz!(GESZ) u szur-qisz _du3_-szu2
+10'. _{d}asal-lu2-hi_ lip-szur-szu
+11'. {d#}e2-a _man abzu_ li!(LU)-bi-ib-szu
+12'. [an]-ni#-tu2 _du11-[ga_-ma? x x] x szu
+$ single ruling
+13'. _[en2?] {d#}utu di-ku5_ kisz-sza2-a-ti
+14'. [mu]-du#-u2 ka-la-ma
+15'. _[{d}]utu_ ina ba-lu-ka e-pisz _hi-a_
+16'. _[hi]-a#_ ul _du3_-usz u pa-szir3?
+17'. an#-na-a-ti
+18'. [ul ip]-pa-szir3 ina ba-lu-ka
+19'. [x x x x x] _nu {lu2}[usz11_ ...]
+$ rest broken
+@column 3'
+$ beginning broken
+1'. {u2}x [...]
+2'. {u2}ba#? [...]
+3'. {u2}za x [...]
+4'. {u2}ki [...]
+5'. an-ni-tu2 [...]
+6'. _il2_-ma [...]
+7'. ki#-a-am [...]
+$ single ruling
+8'. _{d}utu_ an-nu [...]
+9'. sza2 _{lu2}usz11_ u3#? _[{munus}usz11_ ...]
+10'. ina x [...]
+11'. [x] x [...]
+$ rest broken
+@reverse
+$ broken
+
+&P281833 = BAM 4, 336
+#atf: lang akk 
+@tablet 
+@obverse
+$ beginning broken
+1'. [x] {lu2#}x [...]
+2'. [sza?] _{lu2}KA#_ [...]
+3'. sza# _{lu2}nagar_ [...]
+4'. sza _{lu2}ar3-ar3_ [...]
+5'. _en2_ ul ia-a-[tu ...]
+6'. _en2_ {d}da-mu [...]
+$ single ruling
+7'. _ka inim-ma_ [...]
+$ single ruling
+8'. _du3-du3-bi_ 1(u) 4(disz) _{szim}gam-ma-mesz_ [...]
+9'. a-hi-nu-u2 _nu-nu_ 7(disz) u 7(disz) ka [...]
+10'. ina _sag-ki_ [...]
+$ single ruling
+11'. [x] x [x] x [...]
+$ rest broken
+@reverse
+$ broken
+
+
+&P281829 = BAM 4, 338
+#atf: lang akk 
+@tablet 
+@obverse
+$ beginning broken
+1'. [...] x x uh3# [...]
+2'. [...] x-'-a-szip x [...]
+3'. [...] _{im#}mar-tu_ qar-du [x x x] u2-nap#-[x ...]
+4'. [...] el-lum [x] szu-u2# lip-szur# [...]
+5'. [...] _ab#-ba masz-masz dingir-mesz dingir_ el#-lum szi-pat ba-la-t,i [...]
+6'. [...] _{d}utu {d}szakkan2 : {d}nisaba : {d}id2_ hur-sa-a-[ni ...]
+7'. [...] qar-du-ti ka-li-szu2-nu li-szi-bu-[ka]
+8'. [...] x lu-ka _dingir-mesz_ el-lu-[ti ...]
+9'. [...] {d}masz-tum _dumu-mesz_ {d}[3(u)? ...]
+10'. [...] x pa-szit-ta _gig# sag-du_ di-'u x [...]
+11'. [... li-is?]-su#-hu#? [x] i#?-na te-e-szu-nu da-nu u an-tum x [...]
+12'. [li-pa-asz2]-szi-ra#-ka [...]
+13'. [...] x ana e-pisz kisz-pi-szi-na ru-he-e ru-se-e# up-sza2-sze-e# [...]
+14'. [mim]-ma# lem-na sza2 ina# zu#-um#-ri-ka li-is#-[suh-szu ...]
+15'. [... _u4?]-na2-am3?_ li#-pat,-t,i-ra ar2-ni-[ka ...]
+16'. [...] ah#-ha-zu szu-ru-up#-pa a-szu2-usz-tum GIG di-'u [...]
+17'. [...] e-t,im2-ma mi-qit [...]
+18'. [...] x ah-ha-zu _dingir_ mu-rag-ga-[a ...]
+19'. [...] _{lu2}lil2-la2 sikil#-la2 ki-sikil#-lil2-[la2_ ...]
+20'. [...] _an_-e s,i-ri-ih _mul-mesz_ mi-qit be-en-[ni ...]
+21'. [...] x ba:la-s,a ur-gu-li [...]
+22'. [... _{d}asal]-lu2-hi dumu sag_-tu-u2 sza2 eri-du10# [...]
+23'. [...] x li-is-suh ina _su_ [...]
+24'. [... x]-tu2 sik-ka-tu s,e-en-ni-it [...]
+25'. [...] gir-gesz-sza2 sa-ma!(LA)-[nu? ...]
+26'. [... masz-ka]-du sa-ga-la sag-ba-[nu]
+27'. [...] x nap-s,a sza2 _giri3_ ki-is-sa-at i-sza2-[ti ...]
+28'. [ni-szik _ur-gi7] musz gir2-[tab]_ nam-masz-ti ni x [...]
+29'. [...] x _e2 sza3_-bi [x x x] x ri [x x x] _e2#?_ [...]
+30'. [...] sza2 sza2# [...]
+31'. [...] x x [...]
+$ rest broken
+@reverse
+$ beginning broken
+1'. [...] x i-bal#? [...]
+$ single ruling
+2'. [... _{d}amar]-utu#? masz-masz dingir-mesz#_ [...]
+3'. [...] u te-e sza2 _nin_-ka [...]
+4'. [... _{d}]amar-utu_ man-nu sza2? ki-ma#? [...] 
+5'. [... x]-an ad di _ugu un-mesz_ ta-zar-ru nu-uh-[hu ...]
+$ single ruling
+6'. [... mur-s,u] mi#-iq-tum li-'-bu di-'u [...]
+7'. [... ah]-ha#-zu szu-ru-up-pu-u2 a-szu2-usz-tum# : hur-ba-szu2 _{lu2}lil2-[la2_ ...]
+8'. [...] s,i#-da-nu u ha-a-a-at-tu : mu-kil _sag-hul_-ti x [...]
+9'. [si-li]-i'-tu4 _sa-al-hab_ li-i'-bu u2-qu-qu-u x x [...]
+10'. [... mi]-szit#-tu4 ra-pa-du _gidim#_ la-masz-tu4 la-ba2-s,u# ah-ha-zu [...]
+11'. [...] x mu ek-ki-im-[tu] u2-tuk-ku ra-bi-s,u# szag-[ga-szu2? ...]
+12'. [... mu?]-tu hi-in-t,u2 ki-ib-bu kat3-til-[lu ...]
+13'. [... a]-lu#-hap-pu lu-u'-tum _nam-tar_ mim-ma lem-nu mu-s,ab-bit a# [...]
+14'. _[en2?_ ... u2-tam-mi]-ku-nu-szi da-nim u an-ti _dingir-mesz gal-mesz_ sza2 _dingir_ x [...]
+15'. [... x]-ku-nu-szi _{d}du-ri2 {d}da-ri2_ {d}lah3-mu u {d#}x [...]
+16'. [...] ku#-nu#-szi# _[{d}u]-gur# {d}ga-ar2_ {d}a-la-la u {d}x [...]
+17'. [...] _{d#?}masz {d#}szakkan2# [{d}]ku3#-su3_ {d}asz-na-an {d}sirasz u? x [...]
+18'. [...] _ge6# u3# u4-da a-mesz_ u _i3?_ [...]
+19'. [...] x _um-gid2-da_ tab#?-{d}alla# [...]
+20'. [...] er#-ru _u4-2(u)-kam2#-ma_ x-ka ma-ha-[s,u ...]
+21'. [...] x zu rat zu#? x sza2 {d}e2-a _en_ eri-[du10 ...]
+22'. [... _{d}]asal-lu2-hi_ ha#-[']-a-a-t,i mu-kil _sag-hul_ [...]
+23'. [...] _nenni a nenni_ sza2 _[dingir] nenni_ {d}isz8-tar2-szu _nenni_ [...]
+24'. [lu te-re]-eq-qa lu-u ta#-be2-sza2 lu te#-nit#-sa-a lu-u tan-na-as-[sa-ha? ...]
+25'. [...] tu2 lu pa-ra-ku x [x] x-tu2 tak-ki-[...]
+26'. [...] x at-tal-ka _tu6-[en2]_
+$ single ruling
+27'. [...] x {d}e2-a szi-pat {d}e2-a ru-tu2 {d}e2#-[a ...]
+28'. [... _{d}asal]-lu2-hi_ a-bu-bu i-nam-di x [...]
+29'. [...] x ku sza2 qar#-ra-di# x [...]
+30'. [...] x _nin_ x x [x x] _nin_ [...]
+31'. [...] x [...]
+$ rest broken
+
+
+&P281827 = BAM 4, 339
+#atf: lang akk 
+@tablet 
+@obverse
+1. [ina _{iti}szu]-numun#-na u4-1(u)#-[kam_ e-nu-ma {d}isz8-tar2 _un-mesz kur]_ 
+2. [u]-sab#?-ku-u2 _igi_ {d}a-[nun-na-ki? u?] _gidim#?_ [kim-ti]
+3. [ana] _{d}dumu-zi_ i-bak-ka-a _im#-[ri-a lu2_ asz-ra]-nu [pah-rat]
+4. {d}isz8-tar2 _gub_-az-ma ka _un-mesz_ i-ha-ra# _[u4_-um _tur3-mesz] gal4-la_ sza _{na4}za-gin3 mul#_-tam _gar_-an _gi-duh <gin_-an>
+5. _mu lu2_ ta-za-kar 1(u) 2(disz) _ninda_ u mi-ih-ha _[ti?_-qe2-ma] _lu2#-gig_ szu-zi-bi# [ta]-qab-bi
+6. ana {d}isz8-tar2-re-s,u2-u2-a ka-par2-ri sza _{d}dumu-zi#_ [na-as,]-rap-tam u gu-has,-s,a ba-asz
+7. {d}isz8-tar2-re-s,u2-u2-a s,a-bat a-bu-ut _lu2-gig_ [ana _{d}]dumu#-zi_ ta-qab-bi
+8. an-na-a-am ina _e2_ {d}isz8-tar2 _u4_-um _tur3-mesz# [du3]_-usz ina _a2-gu2-zi-ga_
+9. e-nu-ma ma-a-a-al-tum ana _{d}dumu-zi szub_-u2 [1(disz)] _sila3# zi3-da_ sza2 _nita_ i-t,e3-nu _ti_-qe2
+10. ina _sag_ ma-a-a-al-ti _izi mu2_-ah ka-ma-na# tu-szab-szal ina _ga_ ta-mar-ra-as
+11. ina _sag_ ma-a-a-al-ti _gar_-an _{dug}la-ha-an kasz# gin_-an _gi-gid2 gi_-s,i-in-na-ta
+12. _{gesz}szab {gesz}bunin-tur nig2-ba_ ana _{d}dumu-zi_ ba-asz _nig2-na szem-szesz_ ina _sag_-szu2 ta-sar2-raq
+13. _nig2-na {szim}li_ ina sze-pi-it ma-a-a-al-ti ana {d}isz8-tar2 ta-sar2-raq ana _igi_ {d}isz8-tar2 _gi-duh gin_-an
+14. 1(u) 2(disz) _ninda ziz2-an-na gar_-an _ninda-i3-de2-a lal3 i3-nun-na gar_-an _{dug}a-da-gur5 gin_-an _sila4 kud_-is
+15. _kasz-sag bal_-qi2 szid-di _gid2_-ad _{zi3}dub-dub-bu szub-szub_-di ina _zag_ ma-a-a-al-ti
+16. ana _gidim im-ri-a_-szu ina _gub3_ ma#-[a-a]-al#-ti ana {d}a-nun-na-ki _ki-se3-ga#_ [ta]-kas#-sip
+17. _a kasz_ u3 _ga bal_-qi2 x [x x] x-ma _lu2-gig tug2-sza3-ha mu4-mu4_-asz
+18. ana _igi_ {d}isz8-tar2 tu-qar-rab#-[szu]-ma ki-a-am tu-szad-bab-szu2
+$ single ruling
+19. _en2_ sza-qu2-tum {d}isz8-[tar2] _du3#_-at te-ne-sze-ti mu-kin2-nat par-s,i a-szi-kad2 _bara2-mesz_
+20. {d}isz8-tar2 ru-bu-tum# sza-ru-uh-ti# {d}i-gi4-gi4
+21. ba-na-a-at kul#-lat _un-mesz_ musz-te-szi-rat szik-na-at na-pisz-ti
+22. dir-ni-[ni] sza-ru-uh-tu qa-rit-tu at-ti
+23. [ge]-rat# qab-lim musz-tak3#?-ki#?-pat#? x a-na#-[an-ti]
+# erasure before a-na-an-ti
+24. [ba-lu-uk]-ki _id2 nu bad_-te _id2 nu_ is-[se-ker] sza# ub-ba-lu nu-uh#-[sza]
+25. [ba-lu]-uk-ki _pa5 nu bad_-te _pa5 nu_ is#-[se-ker] sza _nag-mesz un-mesz [dagal-mesz]_
+26. [ba]-lu-uk-ki _gal5-la2 hul_ ana _lu2 nu dim4_ ba-[lu-uk-ki] '-lum _lu2-lil2-la2 munus#-[lil2-la2_ u]
+27. _ki-sikil-lil2-la2 nu_ te-hi ana _lu2-gig_ ana-ku _[ir3]_-ki# an-hu szu-nu-hu a-ta-[mar _igi_-ki]
+28. {d}isz8-tar2 be-let in-bi u a-gu-uh-hi a-ta#-[ziz] _igi_-ki zi-ti ana ka-a-szi [ub-la]
+29. ina _du11-ga_ ki-s,ir-tim sza2 _nu kur2_-ru u3 an-ni-ki _ki_-nim sza2 _nu bal_-[u2]
+30. lem-nam ha-a-a-t,am mu-kil _sag hul_-tim sza _gar_-ma _usz-mesz_-ma _nu_ duh-[ru]
+31. ina _u4_-me an-ni-i ina _su_-ia _zi_-szu2-ma ana ag-gi _sza3_-ki id-ni-szu2
+32. isz-tu _szid_-tam an-ni-tam tusz-tam-nu-szu ana _igi {d}dumu-zi-kam du11-ga_
+$ single ruling
+33. _en2 {d}dumu-zi_ be-lum _sipa_ sza {d}a-nim ra-szub-bu
+34. har-mi {d}isz-dar szar-ra-tim bu-kur _{d}nu-dim2-mud_
+35. ga-asz-rum mas-se-e la sza-na-an a-kil el-le-ti ka-man tum3-ri
+36. la-bisz ku-si-ti na-szi szi#-bir#-ri sza2-ti-u2 _a-mesz_ na-a-di ha-li-ib-ti
+37. ba-nu-u2 kul-la2-tim _en-tur3# nun_ sza-qu2-u mut-tal-lu-u2 at-ta-ma
+38. lem-nam ha-a-a-t,am mu-kil _sag hul#_-tim# [sza2] _ki_-ia rak-su-ma ana _kud zi_-ia _gub-zu#?_
+39. _ki_-ia _szu#?_-si na-pisz-ti ub-lak-ku ana _udug#_ lem-ni _gal5-la2_ la ba-bil2 pa-ni
+40. pi-qid-su-ma ki-ia lip-pa-ri-is na-pis-ti qi2-szam
+41. lem-nam ha-a-a-t,am sza2 ina _su_-ia _gal2_-u2 ina _su_-ia u2-suh-szu-ma
+42. ana _gizkim u4_-me an-nu-tim lu-mur-ka-ma da3-li2-li2-ka# lud-lul
+$ single ruling
+43. _gin7 szid_-tam an-ni-tam tusz-tam-nu-szu2 _lu2-gig_ ana _ki-ta {gesz}na2 {d}dumu-zi_ tu-sze-reb-ma
+44. _igi-mesz_-szu2 ana sze-pi-ti _gar_-an ana si-hi-ip pa-ni-szu _szu2-szu2_-ma _ur5-gin7# du11-ga_
+$ single ruling
+45. _en2 {d}dumu-zi_ har-mi {d}isz8-tar2 li-qe2 un-ne-ni# _mar_-s,i
+46. ka#-sza-a-ma _lu2-gig lugal_ git2-ma-lum u2-qi2-ka
+47. [i-na] ki#?-tim-ru3 {d}a-nun-na-ki _igi_-ka _im#-ri#-a_-szu2 _gub_-az
+48. [pu-t,ur? a-dir]-ta#?-szu u2-suh lem-na a-a-ba sza _uzu-mesz_-szu2
+49. [szu-s,u] _gidim usz-mesz_-szu2 t,u2-ru-ud mur-s,a sza _sa#-[mesz_-szu2]
+50. e-nu-ma at-ta ana _ki-ta#_-tim# _gar_-nu _igi-mesz_-ka ana _nenni a nenni gig_ a-a [isz-ku-na pa-ni-szu2]
+51. e-nu-ma tal2-la-ku u2-ru-uh-ka lem#-na# suh-hir-szu2 pa-nu-uk-ka lil2#-[lik] 
+52. e-nu-ma tal-la-ku _edin_ tum-mi-szu qer#-bi#-tam a-a is-sah-ra
+53. e-nu-ma ta-zak-ki-pu bu-lam bu-lum li2-tar-ru-szu2 ka-lu _edin_
+54. e-nu-ma te-eb-bi-ru _id2_ tum-mi-szu2 de2-a-ma a-a is-sah#-ra#
+55. e-t,ir _lu2-gig_-ma lisz-ta-mar _dingir_-ut-ka da3-li2-li2-ka lid-lul ana _un-[mesz] dagal-mesz_
+56. {d}isz8-tar2 na-ram-ta-ka _a2_-ka lil#-lik
+$ single ruling
+57. _gin7# szid_-nu-u2 ina gi tu-lap-pat-su 7(disz)-szu2 tusz-pel2-szu2 _nigin#?_-ma
+58. ina _ki#-hul_ ip-pa-ra-sah-ma _ur5-gin7 du11#-ga#_
+$ single ruling
+59. {d}isz8-tar2 [ina _ki]-hul_-ki ap-pa-ra-si-ih it-ti _un-mesz_-ki
+60. as#?-pi?-[id lem-nam ha-a-a]-tam# sza2 ana _hul_-tim _gub-gub_-za-ma _usz-mesz_-ni
+61. [ina] _su#?_-ia us#-hi#-[szu-ma ana ag]-gi#? _sza3#_-ki# id-ni-szu2 te-de-ki-szu-ma _sig2 sag-ki_-szu2 ta-ha#-[sip]
+62. ana? _igi#?_ 1(u) 2(disz)? _ninda?-hi#?-a_ [u _zi3]-ma#?-[ad]-ga2#? mu2-mu2_-ar2 _kasz-sag bal_-qi2-ma KU x [x]
+63. x [...] x x x ni? KAR KID x x NAGA?
+64. [...] x _szennur?_-ra ku2#? x x u be#? x x
+$ rest broken
+@reverse
+$ beginning broken
+1'. [...] x x [...] 
+2'. [te-li]-tu [{d}isz8-tar2? ...]
+3'. [dir]-ni-ni sza# sza2#-lum-ma#-ta# [ra-ma-at]
+4'. sza-qu-tu# {d}isz8-tar2# [ba-'-lat kib-ra-a]-ti#
+5'. a-ku-ku-tu sza qab-la-[at _an_-e u KI-tim] t,e#-rat#
+6'. e-ri-bat pa-an bu-li# [ra-'-i-mat u2]-tul-lim
+7'. ba-lu#-uk-ki _id2 nu bad id2 [nu_ is-se-ker sza ub-ba]-lu# nu-uh-sza
+8'. _ki-min# tir nu bad tir [nu_ is-se-ker] sza2#? ub#?-ba-lu# _un-mesz dagal-mesz_
+9'. _[ki]-min# {gesz}szub-ba ha-la# [szuku-{d}]inanna#_ ul isz-szar-rak
+10'. [a-na]-ku#? _[nenni] dumu-nita2 nenni# [keszda_-ki] keszda# ku3_ ina _ga ku3_ ka-man _tum2_-ri
+11'. [az-qup]-ki# _{dug#}a-da#-[gur4_ si-min3-ni u] mug#-rin-ni
+12'. [at,-bu-ha-ak-ki _udu-nita2_ ni]-qi2?-i? _[ku3_ sza bu]-ul# _{d}sumugan#_
+13'. [u2-t,ah-hi mir-sa ana] ka#-pa-ar-ra#-[a-ti sza _{d}dumu-zi]_
+14'. [asz-tak-kan _szuku-mesz_ a]-na# za-ab-bi za-ab-ba-tim# [...]
+15'. [aq-ti-sza-ak-ki _gal4-la] {na4#}za#-gin3 mul_-ti si-mat#? _[dingir_-ti-ki]
+16'. [... _gi]-gid2_ s,i-in-na-ta# _{gesz}szab# {gesz}bunin#-[tur?]_ ana _[sipa {d}dumu-zi]_
+17'. [...] x x li tum x x [...]
+18'. [...] x _ur5?-gin7#? du11#?-[ga?]_
+19'. [...] x ni#? isz#? szi#? nu x x [...]
+20'. sza#-pu#-[u] ri#-gim em#-bu-bi-ki# mim-ma lem#-[nu] 
+21'. [la-'-ba]-an#-ni-ma la u2-masz-szar-an-ni _gin7#_ sze#-[e]-ti# [kut-tu-ma-an-ni] 
+22'. [...] x x sah-pan#-ni# ka#-lu#
+23'. ka#? lu#? [...] mu x [...] x x [...]
+24'. [... x]-an-ni ha-at-ta pi-rit-ta ul-ta-na#-[ar-sza-an-ni]
+25'. [...] ud/pi? kar#? ka-lu# _sa#-mesz_-ia lit#-bu#-[szu]
+26'. [lu lem]-nu# lu# _gal5#-la2_ lem#-nu lu#
+$ rest broken
+
+
+&P281826 = BAM 4, 340
+#atf: lang akk 
+@tablet 
+@obverse
+$ beginning broken
+1'. [... _{na4}]szuba# sig7#_
+2'. [... _{na4}ka-gi-na dab]-ba_
+3'. [... {na4}]mu-s,u
+4'. [... {na4}]sah#-hu-u2#
+$ single ruling
+5'. [...] _dingir_ [x] x
+6'. [...] it#-ti-szu2 ze#-nu-u2
+7'. [...] _{d#}innin_-szu2 _ugu#_-szu2#
+8'. [...] a x [x x]
+9'. [...] x ina _u4 1(u) 4(disz)-kam2#?_
+10'. [...] x _dingir_ [x]
+11'. [...] {d}1(u) 5(disz) x
+12'. [...] _du8#_ [x x x] x [x]
+$ single ruling
+@reverse
+1. [...] x _{na4}dur-mi-na_
+2. [...] x _{na4}ka-gi-na dab-ba_
+3. [...] _{na4}an-bar_
+4. [... sah-hu]-u2
+$ single ruling
+5. [...] ana# _lu2 arhusz tuku_-szi
+6. [... _e3]_-ak# ina _gu2_-szu2 _gar_-an
+7. [...] _tuku_-szi
+$ single ruling
+8. [...] x _{na4}nir2_
+9. [...] x _{na4}babbar-min5_
+$ rest broken
+
+
+&P281834 = BAM 4, 360
+#atf: lang akk 
+@tablet 
+@obverse
+@column 1'
+$ beginning broken
+1'. [...] _na4#_ x x [x x x]
+2'. [...] _{na4#}an-zah_ [x]
+3'. [...] _{na4#}ka-gi-na dab_
+4'. [...] {na4#}asz-pu-u
+5'. [...] _{na4#}an-bar_
+6'. [...] {na4#}sah-hu-u2
+7'. [...] _na4# dingir_ ana _na_
+8'. _[arhusz tuku_ ...] hu#? _gu babbar_
+$ single ruling
+9'. [...] x _gug#_
+10'. [...]
+11'. [...]
+12'. [...]
+13'. [...] _ti#?_
+$ rest broken
+@column 2'
+$ beginning broken
+1'. {na4#}[x ...]
+2'. {na4#}[x ...]
+3'. {na4#}[x ...]
+4'. {na4#}[x ...]
+5'. {na4#}[x ...]
+6'. {na4#}[x ...]
+7'. {na4#}[x ...]
+8'. {na4}[x ...]
+$ single ruling
+9'. 1(u) 2(disz)? _[na4-mesz_ ...]
+10'. ana x [...]
+$ rest broken
+@reverse
+$ broken
+

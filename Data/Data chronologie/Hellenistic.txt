@@ -1,0 +1,75 @@
+&P348464 = SpTU 1, 043 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. ul-tu lib3-bi _gaz#_ lib3#-bi# 
+#tr-en: from the stomach: depression; 
+2. _ki-min an-ta-szub-ba_ 
+#tr-en: ditto: seizure; 
+3. _ki-min szu dingir-ra_ 
+#tr-en: ditto: hand of the god; 
+4. _ki-min szu {d}inanna_ 
+#tr-en: ditto: hand of goddess; 
+5. _ki-min_ be-en#-nu 
+#tr-en: ditto: epilepsy; 
+6. _ki-min_ {d}lugal#-ur3#-ra# 
+#tr-en: ditto: epilepsy; 
+$ single ruling 
+7. ul-tu _ka_ kar-szu2 mu-ru-us, _sag-du_ u pi-i# 
+#tr-en: from the pharynx: head and mouth disease; 
+8. _ki-min_ pi-i szin-ni _mur#-dur2#-mesz_-szu2-nu 
+#tr-en: ditto: mouth, teeth, their ‘toothworms’; 
+9. _ki-min min_ gir11#-[gi]-isz#-szum 
+#tr-en: ditto, ditto: red skin lesions; 
+10. _ki-min min_ {d}dim3-me 
+#tr-en: ditto, ditto: Lamaštu; 
+11. _ki-min min_ pa-szit-tu4# {munus}mar-tu4 
+#tr-en: ditto, ditto: Pašittu-daughter; 
+12. _ki-min_ ma#-li# me-e 
+#tr-en: ditto: dropsy; 
+13. _ki-min szu-gidim-ma_ 
+#tr-en: ditto: hand of ghost; 
+14. _ki-min_ masz-ka-du 
+#tr-en: ditto: joint disease; 
+15. _ki-min_ mi-szit-ti 
+#tr-en: ditto: stroke; 
+16. _ki-min_ a-szu-u2 
+#tr-en: ditto: (skin disease); 
+17. _ki-min_ gi-is,-s,a-tu4 
+#tr-en: ditto: (skin disease); 
+18. _ki-min_ hi-mit, _u4_ u3 nap-har mur-s,u 
+#tr-en: ditto: ‘sun-light’-fever and all illnesses; 
+$ single ruling 
+@reverse 
+1. [ul]-tu# ha-sze-e tib-bi 
+#tr-en: from the lungs: throbbing; 
+2. [_ki-min_] szi-i-qu 
+#tr-en: [ditto:] moisture(?); 
+3. _ki#-min_ sza2-a-ri 
+#tr-en: ditto: wind; 
+4. _ki-min_ e-zi# zu 
+#tr-en: ditto: defecating, sweating?; 
+5. _ki-min_ bu-sza2-a-nu 
+#tr-en: ditto: diphtheria; 
+6. _ki-min_ s,i-in-na-ah-tir 
+#tr-en: ditto: (intestinal-disease); 
+$ single ruling 
+7. ul-tu _ellag2-mesz_ hi-niq-ti 
+#tr-en: from the kidneys: stricture; 
+8. _ki-min sza3-zi-ga_ 
+#tr-en: ditto: impotence; 
+9. _ki-min du-ur gig-ga_ 
+#tr-en: ditto: anal disease; 
+10. _ki-min_ sa-gal-lu4 
+#tr-en: ditto: muscle-disease; 
+11. _ki-min_ la a-li-du-ti 
+#tr-en: ditto: barrenness; 
+12. _ki-min arhusz_ sza2 zi-i-ri 
+#tr-en: ditto: womb which is twisted; 
+13. _ki-min_ ka-le-e _im_ 
+#tr-en: ditto: ‘gas’ retention. 
+$ single ruling 
+14. _gin7 sumun_-szu2 _sar_-ma ba-ri _im-gi3-da_ [{disz}]ri-mut-{d}a-nu _dumu_ sza2 {disz}{d}sza3-masz2-mu _dumu_ {lu2}sanga-{d}nin-urta _{lu2}masz-masz_ qa-at2 {disz}be-lu-ka-s,ir dumu sza2 {disz}din
+#tr-en: Like its old version written, inspected; long-tablet of Rimut-Anu, son of Šamaš-iddin, son of Ninurta-priest, incantation expert; the hand of Balaṭu. 
+
+

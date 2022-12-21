@@ -1,0 +1,257 @@
+&P285473 = BAM 4, 402
+#atf: lang akk 
+@tablet 
+@obverse
+1. [...] te _disz_-nisz _sud2_ ina _a id2 hi-hi szesz2#_ [...]
+2. _{d#}lugal-ur3-ra_ x [...]
+$ single ruling
+3. [...] _szub_-su _szu {d}3(u)_ lu _szu {d}u-gur#_ [...]
+4. a#-na _uzu_ ab-la _zu2-lum-ma_ [...]
+5. _[hi]-hi#_ tu-sze-la szum-ma _nita#_ [... szum-ma _munus_ ...]
+$ single ruling
+6. _{szim#}li szub_-su _szu_ {d}[x ...]
+7. [...] _szu#?_ ta-pat-tah# [...]
+8. [...] x ki#-ma# [...]
+$ rest broken
+@reverse
+$ beginning broken
+1'. [...] x x [...]
+2'. [...] x-su ina _kam2_-x [...]
+3'. [... a]-ki-nu-te _sud2_ x [...]
+$ single ruling
+4'. [...] x-su ul lak sza2 x [...]
+5'. [...] _lu2#-u18-lu gin7_ {gesz}x [...]
+6'. [...] x _hi-hi szesz2-mesz_ x [...]
+$ single ruling
+7'. [...] x bu-ul [...]
+8'. [...] x lu x [...]
+
+
+&P285478 = BAM 4, 407
+#atf: lang akk 
+@tablet 
+@obverse
+$ beginning broken
+1'. [...] isz# x [...]
+2'. [...] ana# _sza3_-bi _uru4-uru4_-isz# _ninda# gu7_ x 
+3'. [...] _dingir# uru#_-szu2 _DISZ_ ina _szu dingir_ na-ad-ru# [...]
+4'. [...] x _{u2}za3-hi-li {u2}kur-ra {na4}za-gin3_
+5'. [...] _kasz#_ ina _gu2_-szu2 _gar_-an u2-sze-li-li bi-na-tu2-szu2#
+$ single ruling
+6'. [...] _uru4#-uru4_-isz _ninda_ u _kasz_ la i-mah-har a-ma#-[tu2]
+7'. [...] DAN# _szu dingir_ mut-tak-li _{d}alad_ sza2-<ne2>-e {d}gu#-[la]
+8'. [... _szu dingir]_ mut#-tak-li _kar_-szu2 ni-lu _ur-gi7 ge6_ [x]
+$ single ruling
+9'. [...] MIN# ma a-di i-di-ik-ma szu2-nu zi-bi _ninda_ u _kasz sza3_-szu2#
+10'. [...] ga#-asz2-ri _{d}alad_ sza2-<ne2>-e _{d}u-gur DISZ_ ina _szu dingir_ ga-asz2-[ru]
+11'. [...] _du3_ ina _gu2_-szu2 _gar_-an _{u2}sikil {gesz#}szinig#_ ina _i3-gesz szub#_
+$ single ruling
+12'. [...] usz#-tan-na-ah _e2-gar8_ ina _szu-min_-szu2# [...] _u2#_ x x x [...]
+13'. [...] ni ina _szu dingir_ szam-ri _{d}alad#_ [...] x x [...]
+$ single ruling
+14'. [...] x x x zum-bi bu [...]
+15'. [...] x x x [...]
+16'. [...] x x [...]
+$ rest broken
+
+
+&P285479 = BAM 4, 408
+#atf: lang akk 
+@tablet 
+@obverse
+@column 1'
+$ beginning broken
+1'. [...] _hi#-hi munus bi il2?_-ma
+2'. [...] _{gesz#}nu-ur2-ma {szim}hab_
+3'. [...] x-ma#? ir-ri
+4'. [...] ina? _ge6?_ tusz-bat ina sze-ri3 nu pa-tan _nag_
+6'. [...] x im id? usz
+7'. [...] x-ne2-e-tim _numun gada_
+8'. [...] x-szi-ma ina-esz!(MESZ)
+9'. [...] x
+$ rest broken
+@column 2'
+$ beginning broken
+1'. _DISZ#_ [...]
+2'. _DISZ ki-min_ KU [...]
+3'. _disz_-nisz _hi-hi_ ina _kasz#_ [...]
+4'. _DISZ munus u3-tu_-ma x [...]
+5'. _illu {szim}buluh illu#_ [...]
+6'. _tag?_-ma _i3-udu hi-hi#_ [...]
+7'. _{gesz}erin {szim}mug_ [...]
+8'. _szeg6_-szal ina _tug2 sur_-ri# [...]
+9'. [ina] _ga#-rig2-ak-a_ [...]
+10'. [...] x man x x [...]
+$ rest broken
+@reverse
+$ broken
+
+
+&P285480 = BAM 4, 409
+#atf: lang akk 
+@tablet 
+@obverse
+$ beginning broken
+1'. x _sze10 munu4# gu2#?_ [...]
+2'. _kusz ansze_ tur-ar2 [x x] x [...]
+3'. 4(u) _gin2 szesz2 {u2}in-nu-usz_ tur#-ar2 _sud2_ x [...]
+4'. _sahar kun4 edin gal sud2 mar_ ina _ellag2 gu4_ tu-x [...]
+5'. _kusz ansze_ tur-ar2 _{u2}dar_ har-ra-nu ina _i3-gesz szesz2#_ [...]
+6'. _{u2}dar_ har-ra-nu _la2_ x _sa6_-e tur-ar2 _igi gig tag#?_ x
+7'. ka-tu-x-x pi-tu _igi gig# szesz2 mar szub#_ [x]
+8'. _ukusz2-hab had2-a gaz sim a-mesz# gazi{sar}_ tara-bak _la2_-id#
+9'. _sze10 nam-lu2-u18-lu_ ina _kasz3 ur-gi7_ tara-bak _la2_-id#
+10'. _{szim}gam-ma {szim}gur2-gur2 {szim}li_ ina _i3-udu duh-lal3 hi-hi la2_ [x]
+$ single ruling
+11'. _DISZ na_ sa-ma-nu lu-u2 _sa5_ lu-u2 _ge6_ lu-u2 _sig7_ lu-u2 _[babbar?]_
+12'. lu-u2 s,e-tu lu-u2 mi-hi-is, _{gesz}dala2_ it-tab-[szi]
+13'. _{szim}gur2-gur2 {szim}li sze10 munu4 gu2-gal gu2-tur#_
+14'. _sze10 tu{muszen}-mesz {zi3}sze-gig-ba illu li-dur zi3 gazi#?{sar#}_
+15'. _szu_ szur-szum-mi _kasz_ tara-bak _la2_-id
+16'. szum-ma _mud2_ u _lugud!(|BI.UD|) szub-mesz_ sah-le-e ina _a-mesz gazi{sar}_ tara-bak _la2_
+$ single ruling
+17'. _DISZ {lu2}tur_ sa-ma-nu _dab_-su _{d}nin-ki_ x? tur-ar2 _sud2 mar_-ub
+$ single ruling
+18'. _DISZ gig gar_-szu2 _ge6_ ha-ra-su _mu-ni_
+19'. ana _su lu2_ bir-di _diri-mesz_-ma _uzu#-mesz#_-szu2
+20'. u2-zaq-qa3#?-tu#? u ri-szu-ta _szub-szub_-su ha-ra-su _mu-ni_
+21'. _gu2-gal gu2-tur gu2_ sza2 har-ra-<ni?> _sze-gesz-i3_ bu-un-nu-tu4
+22'. x _SAR#?-mesz 1(disz) gin2-ta-am3 ti_-qe2 _disz_-nisz ta-mar-raq
+23'. ina _i3#-udu# {gesz#}sur-min3# hi-hi szesz2_-su
+24'. x [x x x x] x x ma u _zi3-kum_ ta-la-szi
+25'. x [x x] _szesz2# 4(disz) u4_-mi _la2-mesz_-su ina sze-<ri3> ina-esz
+$ single ruling
+26'. [x x] x x x x la#-pa#-ti# da#?-ni _kum2_-im
+27'. [x] x x x [x]-szu2#? x [x] _kum2#? tuku#?_-szi
+28'. x [x x] a#?-ka#?-la _kasz_ mut,#-t,u# sza-da-nu _mu#-ni_
+29'. x [x x] x x x x na {u2}ur2#-nu-u2 _{u2}ab2-duh#_
+30'. x kal li#? _{szim}buluh_ {szim}x
+31'. _numun gi du10 a zu2-lum-ma_ x _{u2}gir2-hab kur-ra#_
+32'. {u2#}{d#}x x x ina szur-szum-mi _kasz_ ina _{uruda}szen-tur_ tara-bak _la2_-ma ina-esz
+$ single ruling
+33'. _DISZ gig gar_-szu2 ki-ma _na3_ da#?-an#? qer#?-be2#-nu-um#?-ma
+34'. i#!?-rab!(LIL)-bi qer#-be2#-nu#-um#-ma# it#-ta-na-lak
+35'. na-szu-sza2 _zi_-a# [x x] _gub#?_-zi _nu_ i-le-'-i sza2-da-nu _mu-ni_
+36'. _tag {d}amar-utu_ u _{d}nin-urta ukusz2-hab illu li-dur_
+@reverse
+1. _uzu-dir-kur-ra illu {szim}buluh_
+2. _gukkal#?_ la-a'-'u3 x [x] zi#? tu-ul-du-szu2
+3. 5(disz) _gin2 sze-gesz-i3 2(disz) gin2_ x 2(disz) gin2 i3-udu ellag2 gu4_
+4. 2(disz) _gin2 mun ku3-pad 2(disz) gin2#_ sah-le-e
+5. 1(disz) _gin2 {u2}gamun{sar#?} 1(disz) gin2 {u2}hur-sag_
+$ single ruling
+6. _pap 2(u) 2(disz) u2-hi-a_ an-nu-ti# _disz_-nisz _gaz sud2_
+7. ina _ga-rasz a_ {gesz}nu-ur2!(KA)-ma#?_ ina _{uruda}szen!(TUR)-tur_ tara-bak ina _kusz sur la2_-id
+$ single ruling
+8. _numun# {gesz}duh#-lal# numun {gesz}ma-nu_ {u2}tar-musz {u2}el-kul-la
+9. ina _kasz u4 3(disz)-kam2 nag#-mesz_-szu2 _{u2}dili sud2_ ina _i3-nun#-na hi-hi szesz2_
+$ single ruling
+10. _en2 gig ku3#-ga# gig# ku3-ga gig bar_ [x] _gig bar ku3-ga#_
+11. _gig bar ku3-ga gig ku3-ga sukud-da : gig#_ x x x _gig#?_ x
+12. _gig me zah-zah# gig me bir-bir gig me pi-pi#?_ [x x x] _en2_
+$ single ruling
+13. _DISZ na_ szu2-ha-hu ana _ugu#?_ tu# x ha#? a-na [x x] x bar#?
+14. u _muszen_ a-na _an_-e ma [x x x] x tu#-masz [x x] ka#
+$ single ruling
+15. 1(u) _gin2 {u2}nu-luh-ha 1(u) gin2_ {u2}ur2#-nu-u2 1(u) _gin2#_ [x x x 1(u)] _gin2#_ sah-le-e
+16. 1(u) _gin2 gazi{sar} 1(u) gin2_ {u2}szu-mut-tu4 1(u) _gin2_ [x x 1(u)] _gin2# {szim}gam-ma_
+17. 1(u) _gin2 {szim}man-du 1(u) gin2 {szim}ses 1(u) gin2 {szim}gir2 1(u) gin2 {gesz#}erin_
+18. 1(u) _gin2 {gesz}erin-sumun 1(u) gin2_ {u2}si-hu 1(u) _gin2_ {u2}ar2-gan-na 1(u) _gin2_ {u2}ba-ri-ra-tu4
+19. 1(u) _gin2 gi du10-ga 1(u) gin2 {u2}har-har 1(u) gin2 sag#?_ x _babbar 1(u) gin2 {szim}mug_
+20. 1(u) _gin2 {szim}gig 1(u) gin2 {szim}sal 1(u) gin2 naga si 1(u) gin2 sze-munu6?_
+21. 1(u) _gin2 na4_ ga-bi-i 3(disz) _gin2 {u2}kur-kur 5(disz) gin2 {u2}masz-tab-ba 1(u) gin2 zi3? gi illu!(KAL) zu2-lum-ma_
+22. 1(u) _gin2_ {u2}szib-bur-ra-ti 1(u) _gin2 {u2}kur-ra#_
+$ single ruling
+23. _pap 3(u) 3(disz) u2-hi-a_ mar-ha-s,u sza2 hi-mi-<it,> s,e-ti szi#-bit,# _im#_
+24. szim-mat sza2-asz2-sza2-t,u _szu gidim_ za-ma-na ba-ri-ra _kala gig gig du3_
+25. 5(disz) _sila3 kasz 1(disz) sila3 kasz3 gesztin-na# 1/2(disz) sila3 i3-gesz_ ina _izi_ tu-szab-szal
+26. ana _dur2_-szu2 _dub_-ma _lu2_ szu2-u2 _ti_-ut,
+$ single ruling
+27. _en2_ sa-a-su2 _mu_-ka bar x x x [x]
+28. _en2_ ti be/gam ti i ka s,a!(TAR) ta x [x x x] x x x [x]
+29. KAM ta hu sze? dir la ka sza2? ta#? [...]
+30. ki#?-i _an-szar2_ mi-ti ki-i _an-szar2_ u [...]
+$ single ruling
+31. _du3-du3-bi lu2_ sza2# ak-ku-tu4 ib x [...]
+32. ni-ri sa-mu-ti ta-t,am!-mi [...]
+33. _nu!(BAD)_ pa-al-lu-ru _du3_-usz la x [...]
+34. _ti_-qe2 a-ru-up-pi2 _kesz2? la2_ la [x x x x] x ni
+35. x ru u2 iz-za-az [...]
+$ rest broken
+
+
+&P348464 = SpTU 1, 043 
+#atf: lang akk 
+@tablet 
+@obverse 
+1. ul-tu lib3-bi _gaz#_ lib3#-bi# 
+#tr-en: from the stomach: depression; 
+2. _ki-min an-ta-szub-ba_ 
+#tr-en: ditto: seizure; 
+3. _ki-min szu dingir-ra_ 
+#tr-en: ditto: hand of the god; 
+4. _ki-min szu {d}inanna_ 
+#tr-en: ditto: hand of goddess; 
+5. _ki-min_ be-en#-nu 
+#tr-en: ditto: epilepsy; 
+6. _ki-min_ {d}lugal#-ur3#-ra# 
+#tr-en: ditto: epilepsy; 
+$ single ruling 
+7. ul-tu _ka_ kar-szu2 mu-ru-us, _sag-du_ u pi-i# 
+#tr-en: from the pharynx: head and mouth disease; 
+8. _ki-min_ pi-i szin-ni _mur#-dur2#-mesz_-szu2-nu 
+#tr-en: ditto: mouth, teeth, their ‘toothworms’; 
+9. _ki-min min_ gir11#-[gi]-isz#-szum 
+#tr-en: ditto, ditto: red skin lesions; 
+10. _ki-min min_ {d}dim3-me 
+#tr-en: ditto, ditto: Lamaštu; 
+11. _ki-min min_ pa-szit-tu4# {munus}mar-tu4 
+#tr-en: ditto, ditto: Pašittu-daughter; 
+12. _ki-min_ ma#-li# me-e 
+#tr-en: ditto: dropsy; 
+13. _ki-min szu-gidim-ma_ 
+#tr-en: ditto: hand of ghost; 
+14. _ki-min_ masz-ka-du 
+#tr-en: ditto: joint disease; 
+15. _ki-min_ mi-szit-ti 
+#tr-en: ditto: stroke; 
+16. _ki-min_ a-szu-u2 
+#tr-en: ditto: (skin disease); 
+17. _ki-min_ gi-is,-s,a-tu4 
+#tr-en: ditto: (skin disease); 
+18. _ki-min_ hi-mit, _u4_ u3 nap-har mur-s,u 
+#tr-en: ditto: ‘sun-light’-fever and all illnesses; 
+$ single ruling 
+@reverse 
+1. [ul]-tu# ha-sze-e tib-bi 
+#tr-en: from the lungs: throbbing; 
+2. [_ki-min_] szi-i-qu 
+#tr-en: [ditto:] moisture(?); 
+3. _ki#-min_ sza2-a-ri 
+#tr-en: ditto: wind; 
+4. _ki-min_ e-zi# zu 
+#tr-en: ditto: defecating, sweating?; 
+5. _ki-min_ bu-sza2-a-nu 
+#tr-en: ditto: diphtheria; 
+6. _ki-min_ s,i-in-na-ah-tir 
+#tr-en: ditto: (intestinal-disease); 
+$ single ruling 
+7. ul-tu _ellag2-mesz_ hi-niq-ti 
+#tr-en: from the kidneys: stricture; 
+8. _ki-min sza3-zi-ga_ 
+#tr-en: ditto: impotence; 
+9. _ki-min du-ur gig-ga_ 
+#tr-en: ditto: anal disease; 
+10. _ki-min_ sa-gal-lu4 
+#tr-en: ditto: muscle-disease; 
+11. _ki-min_ la a-li-du-ti 
+#tr-en: ditto: barrenness; 
+12. _ki-min arhusz_ sza2 zi-i-ri 
+#tr-en: ditto: womb which is twisted; 
+13. _ki-min_ ka-le-e _im_ 
+#tr-en: ditto: ‘gas’ retention. 
+$ single ruling 
+14. _gin7 sumun_-szu2 _sar_-ma ba-ri _im-gi3-da_ [{disz}]ri-mut-{d}a-nu _dumu_ sza2 {disz}{d}sza3-masz2-mu _dumu_ {lu2}sanga-{d}nin-urta _{lu2}masz-masz_ qa-at2 {disz}be-lu-ka-s,ir dumu sza2 {disz}din
+#tr-en: Like its old version written, inspected; long-tablet of Rimut-Anu, son of Šamaš-iddin, son of Ninurta-priest, incantation expert; the hand of Balaṭu. 
+
+

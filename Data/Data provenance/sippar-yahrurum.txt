@@ -1,0 +1,115 @@
+&P285471 = BAM 4, 400
+#atf: lang akk 
+@tablet 
+@obverse
+@column 1
+$ beginning broken
+1'. [x _dib_-ti3? {d}amar]-utu#_
+2'. _[dib_-ti3?] {d}isz8-tar2
+3'. x sa-lim# {d}NUSKA
+4'. [x] _dib_-ti3 3(u) 2(u) u _{d}iszkur_
+5'. [x] _dib_-ti3 _dingir du3-a-bi_
+6'. x 4(disz)-u2 _dur_
+$ single ruling
+7'. [x _silim?]_-im _{d}en-lil2_
+8'. [x _silim?]_-im# {d}a-nim
+9'. [x _silim_-im?] {d}e2-a
+10'. [x _silim_-im?] _{d}iszkur_
+11'. [x x x] _dur_
+@column 2
+$ beginning broken
+1'. 6(disz)# _szu_ x x [...]
+2'. 3(u) 1(disz) 7(disz)-u2 _[dur]_
+$ single ruling
+3'. 1(u) 4(disz) _a2-mesz giskim#-[mesz?]_
+4'. 1(u) 2(disz) _giskim hul_ [x]
+5'. 7(disz) _hul musz#_
+6'. 3(u) 3(disz) 8(disz)-u2 _dur#_
+$ single ruling
+7'. 1(u) _hul muszen bar_-i# [x]
+8'. 8(disz) _hul tu{muszen} bar_-i [x]
+9'. 9(disz) _hul_ x x [x]
+10'. 8(disz) gi-na-a [a-dir?]
+11'. 3(u) 5(disz) 9(disz)-u2 _dur#_
+@reverse
+@column 1
+1. 1(u) 3(disz) _masz2#?-ge6 [hul sig5?]_
+2. 3(disz) _lu2 usz2-mesz igi-[mesz?]_
+3. 5(disz) _hul u4 iti_ u _mu_ [x]
+4. 3(disz) _zah2#? lu2 nu zah2_ [x]
+5. 3(disz) ma-szi-ta5 ha-sa-su [x]
+6. 3(disz) _giskim munus hul#_
+7. 3(u) 1(u)-u2 _dur#_
+$ single ruling
+8. 1(u) 4(disz) _dingir-sza3-dab-[ba?]_
+9. 7(disz) _dingir-sza3-dab-[ba?]_
+10. 5(disz) _dingir_ kam-[la? _silim?]_
+11. 5(disz) uz-zi _[dingir lugal idim?]_
+12. 3(u) 1(disz) 1(u) 1(disz)-u2 _[dur]_
+$ single ruling
+13. [x] x [...]
+$ rest broken
+@column 2
+1. [...] x x ma?#
+2. [...] x _igi nu_
+3. [...] x x x-szu2
+4. [...] _hul_
+5. [x x]-u2# _dur_
+$ single ruling
+6. [x] mim#-ma# _hul_ sza2 _edin_ u _uru_
+7. [x be]-en-nu
+8. [x] ne2-me-du
+9. [x x]-u2 _dur_
+$ single ruling
+10. [...] um
+11. [...] DA#
+12. [...] x
+$ rest broken
+
+
+&P285472 = BAM 4, 401
+#atf: lang akk 
+@tablet 
+@obverse
+1. [...] x ku# ma# ba# ar su-la-a-ka
+2. [...] x _diri#?-mesz#_ : sza lu-u2 id-ri
+3. [...] du# ki-is# i-ni ana _sza3_-bi-szu2
+4. [x x x x] ur-tum : _bar_ : pal-lu-ur-tum
+5. ina# x x x nap-sza2-ta : u2-ru-du
+6. _en2 mu-un-tar kala#-ga_ a-ru#?-[u] lip-pa-ri-is _min mu-un-tar kala-ga_
+7. _kasz-bir8_ : _kasz-sag#?_ sza2-lul#-tu4 hi-i-qa
+8. _a sumun2_ : me-e nar-t,a-bi : _i3#?-hab : _i3-kux(DU)-kux(DU)_ : szam-ni nu-u2-nu
+9. _{uruda}nig2-kal-ga_ : mi-su sza2 _{uruda}nig2-kal-ga_-u2
+10. _du11-ga {d}en-ki-ke4 an-na sza3-bi ki-bi-sze3 mu-un-da-ne-gi4-gi4_
+11. ina qi2-bit {d}e2-a# _en#?_-szu2 e-lisz a-a i-lu ana asz2-ri-szu2 li-tur
+12. _zukum#_-as : i-kab#?-ba#-as : ma-ki#?-ik : a-na ma#?-ka-ku
+13. sza2-nisz ma-qi2-iq#? [x] _sza3#?-sur ku5-ru-da-kam2_ : nis-hu pa-ra-su
+14. _sza3-sur_ : nisz-hu# : _sza3-sur_ : s,a!-na-hu? : _ku5-ru-da_ : pa-ra-su
+15. _en2# sza3?-si-sa2# tum2-ma#?_ : szu#-szur _sza3_-bi lis,x(LISZ)-bat : _min sza3-si-sa2 tum2_ x
+16. [x] x _sza3_ x x [x] szu-szur _sza3_-bi lik-li _min gen_-ma [x x x]
+17. [x] ta# _tum2-ma_ szu-szur _sza3_-bi e-lisz lis,x(LISZ)-bat _sza3#?_ [x x x]
+18. [x] ta _tum2-ma_ szu-szur _sza3_-bi szap-lisz lis,x(LISZ)-bat [x x x]
+19. [x] _tum2#?-ma sza3-si-sa2_ : szu-szur _sza3_-bi lik-li x [...]
+20. [x] x ma#? na# sza2# la ik-kas,3-s,a-bu : asz2-szu2 x [x x x x]
+21. [x] me? la la : szi-ik-tu2 : naq#-qu#-u2 x [...]
+@reverse
+1. [har-sa]-pa nu : mi-iq-qa-ni : [...]
+2. [mi]-iq#-qa-nu : tul-tum s,a-hir-tum#? [...]
+3. [x x] usz# _{gesz}kiri6_ : asz2-tu4 {gesz}a-da-ri [...]
+4. [x x] lu : um-ma a-da-ri ar2-qi2 in-bi [...]
+5. [x x] in-bi i-nap-pa-as, : ki-is,-s,a-tu2 : sza2 x [...]
+6. [x] x-ru-u' : sza2 ir-ri asz2-ta-pi-ru bul-lu#-[t,u ...]
+7. asz2-ta-pi-ru : szit-pu-ru : ki-is,-s,u-ru
+8. da-da-ru : szit-pu-ru : da-da-ru ki-is,-s,u#-[ru]
+9. _{szim!(KUM)}en-du_ : si-la-ru3 : _{szim!(KUM)}en-du_ : bal-lu-uk-ku
+10. _{gesz}sza3 geszimmar_ : u2-qu-ru : mad-li-i : da-lu
+11. sza2#-nisz _ba-an-du8-du8_-u2 : 
+$ double ruling
+12. _DISZ na sza3-mesz mu2-mesz_-hu : 2(u) 2(disz) u4 su _din_-t,i _e2_ da-bi-bi
+13. _nu al-til_ s,a-a-tu2 sza pi-i u masz-a-a-al-tu2 sza2 pi-i um-ma-nu
+14. x _en2_ sa-am-su-um-ma _ka im-gi3-da_
+15. _{m}{d}lugal-ki-sur-ra-sum2{qa-asz}_ gi-nu-u2
+16. sza#? ana _sag {d}nin-ur2-ra_ ud-da-a ana _szu dingir sig_ szi
+17. x x {d}a3-li2-li2 ku-szu-um _szum2_-na _dumu_-szu2
+
+

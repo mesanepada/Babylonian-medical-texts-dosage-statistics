@@ -1,0 +1,78 @@
+&P281806 = BAM 1, 11 (VAT 10267) 
+@tablet 
+@obverse 
+1. _DISZ lu2 sag-ki-dab-ba tuku-tuku numun ukusz2-hab numun ukusz-ti-gi-il# numun {u2}eme ur-gi7 numun_ {u2}e-di 
+2. _numun {gesz}kiri6 numun_ kisz-sza-ni _tesz2-bi gaz sim_ ma-al-ma-lisz _hi-hi_ i-na _a-gesztin-na_ tara-bak 
+3. _{zi3}sze-sa-a {zi3}ziz2-an-na_ a-na pa-ni ta-sza-ba-ah i-na _kusz_ te-t,er-ri _sag-du_-su tu-gal-lab _lal_-ma _ti-la_ 
+$ single ruling 
+4. _DISZ ki-min {gesz}erin {gesz}szur-min3 {gesz}{szim}gir2!(TAR) gi du10-ga_ {szim}li {szim}ku7-ku7_ {szim}szu-pu-uh#-[ru?] 
+5. _{szim}mug {szim}sal {szim}im-du {szim}hab illu_ ba-lu-hi _tesz2-bi gaz [sim]_ 
+6. i-na _gesztin sur-ra_ ta-rab-bak _{zi3}sze-sa-a {zi3}ziz2-an-na_ a-na _igi_ ta-sza-ba-ah _lal#_-[ma _ti_-at,] 
+$ single ruling 
+7. _DISZ ki-min numun {gesz}ildag2_ {u2}ak-tam _numun ab2-duh_ {u2}am-ha-ra _gazi{sar} numun_ {gesz}x [...] 
+8. i-na _gesztin-sur-ra_ ta-rab-ba-ak _[lal_-ma _ti-la]_ 
+$ single ruling 
+9. _DISZ ki-min {u2}har-har {u2}kur-kur!_ {u2}ak-tam _numun ab2-duh {zi3}gig dida sig5#_ [...] 
+$ single ruling 
+10. _DISZ ki-min {szim}ku7-ku7 {szim}li {szim}{d}nin-urta {zi3}gig_ [...] 
+11. i-na _kasz-sag_ ta-la-asz tu-ba-'-a-ru3 _sag-du#_ [...] 
+$ single ruling 
+12. _DISZ ki-min {szim}ku7-ku7 {szim}li {szim}{d}nin-urta_ x [...] 
+13. _{szim}mug tesz2-bi gaz sim_ i-na _kasz_ [tara-bak _na2_-ma _ti]_ 
+$ single ruling 
+14. _DISZ ki-min pa!(GESZ) _gesz!(PA)-geszimmar_ sza i-na-zu-zu _szu-ti_ tu#-[x ... _bal gaz sim]_ 
+15. i-na _a gazi{sar}_ ta-la-asz _lal#_ [...] 
+$ single ruling 
+16. _DISZ lu2 zi_-ib _sag-ki tuku pa!(GESZ) gesz!(PA)-geszimmar#_ [...] 
+17. i-na _{sig2}he-me-da_ tara-kas2 [...] 
+$ single ruling 
+18. _DISZ ki-min sa masz-da3 {sig2}he-me-da_ me2 szab# [szu-ti ...] 
+$ single ruling 
+@reverse 
+1. ana _zi_-ib _sa sag-ki_ nu-uh-hi _duh-sze-[gesz-i3?_ ...] 
+2. i-na _zi3-kum kasz-u2-sa_ u3 _kasz-sag# [szeg6_-szal tara-bak _lal]_ 
+$ single ruling 
+3. _DISZ lu2 _gidim dab_-su-ma _sag-ki-dab-ba tuku-tuku_ x [...] 
+4. tu-ba-ah-ha-ar ba-ah-ru-su [...] 
+$ single ruling 
+5. _DISZ lu2 gidim dab_-su-ma _sag-ki-dab-ba tuku-tuku {gesz}gesztin# [ka5-a_ ...] 
+6. i-na _a gazi{sar}_ ta-la-asz [...] 
+$ single ruling 
+7. _DISZ ki-min i3 sumun_ sza {gesz}ig abul_ i#-na# _e3_-ka a-na _zag_-ka# [...] 
+8. _ge6 _u4 bi dur nu-nu_ i-na _{sig2}aka3 _nigin_-ma# [...] 
+$ single ruling 
+9. _DISZ ki-min suhusz {gesz}dih3 nigin_-ma ta-na-sah _{sig2}he-me-da nu-nu_ [...] 
+$ single ruling 
+10. _DISZ ki-min lag a-sza3-ga {gesz}za-ba-lam {zi3}sze-sa-a duh-sze-gesz-i3_ [...] 
+11. _{szim}li tesz2-bi gaz sim 1/3(disz) sila3-ta-am3_ i-na _kasz-sag_ ina [...] 
+$ single ruling 
+12. _DISZ lu2 _zi_-ib _sag-ki tuku_ u3 _su_-szu2 _gu7_-szu2 _pa!(GESZ) {gesz!(PA)}mes-ma2-gan-na had2-ra2 gaz#? [sim zi3 gu2-gal]_ 
+13. _zi3 gu2-tur zi3 {sze}in-nu-ha_ i-na szur-szum-mi _kasz-sag lal-lal_-su-ma x [...] 
+$ single ruling 
+14. _DISZ lu2 zi_-ib _sag-ki tuku_ u3 ri-mu-ta5 _tuku pa {gesz}sze-du3-a had2-ra2 gaz sim_ x [...] 
+15. sah-le2-e t,e4-ne-e-ti _{zi3}sze-sa-a tesz2-bi hi-hi_ i-na _a gazi{sar}_ tara-bak _lal-lal#_-[su-ma _ti]_ 
+$ single ruling 
+16. _DISZ lu2 zi_-ib _sag-ki tuku_ u3 szim-ma-ta5 _tuku pa!(GESZ) _gesz!(PA)-ma-nu had2-ra2_ ta-sak3 _{zi3}gig#_ [...] 
+17. sah-le2-e _{u2}har-har_ i-na _kasz {lu2}kurun2-na_ ta-rab-bak _lal-lal_-su-ma _ti-la_ 
+$ 1 line blank 
+18. 1(u) 8(disz) bu-ul-t,u2 sza _sag-ki-dab-ba_ 
+19. _im-gid2-da 1(disz)-kam2-ma_ 
+20. sza _e2_ ra-bi-a-sza-_{d}amar-utu_ 
+ 
+ 
+
+
+&P269150 = BAM 4, 395
+#atf: lang akk 
+@tablet 
+@obverse
+1. _DISZ na sza3-mesz_-szu2 i-sza-ru-ma szi-ik-tu2 x [x]-u2 _1(disz) sila3_ {szim}[...] du-qa2-at-su-nu ta-ta-bal# [...]
+2. ga-ab-ba-szu-nu i-na _a gazi{sar}_ ki-ma ra-bi-ki ta-ra-bak ana x [...] _gu7-gu7_-ma ne2-esz [x]
+3. szi-pa-at _sza3-mesz_ i-sza-ru-ti _en2_ x [x] x ha ap?-pa ha 8(disz) x ha x [...]
+4. _en2_ 7(disz) u 7(disz)-szu2 ana _ugu dur2_-szu2 nu mi#? [x x] x x# x _har udu gu7_-ma [i-ne-esz? ...]
+$ double ruling
+@reverse 
+$ blank space 
+$ (actually inscribed with continuing text from obverse) 
+
+
